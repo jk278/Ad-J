@@ -1,8 +1,17 @@
 [Adblock J 0.1]
 ! Title: AdJ
 ! Version: 20211221
-! Last Modified: 2021年12月21日 20:02
-
-
-
+! 本规则由本人精选，克制原则
+！感谢互联网所有的朋友
+! powered by Adblock Plus and uBlock Origin
+!
+! 微博移动网页版
 m.weibo.cn##.wrap
+! 百度部分广告结果
+baidu.com##.ec_ad_results
+baidu.com##.ec_wise_ad
+! 百家号
+baijiahao.baidu.com##.undefined._3RmxTKlPzuCkzYl1ZqE2yE.uukjsi6a_zpZccrqYiI3k
+csdn.net##.feed-Sign-span
+pixiv.net##.ad-frame-container
+18comic.vip##.visible-sm.visible-xs.bot-per
