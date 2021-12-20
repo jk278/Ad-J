@@ -11,7 +11,7 @@ m.weibo.cn##.wrap
 baidu.com##.ec_ad_results
 baidu.com##.ec_wise_ad
 baidu.com###results-pre
-baijiahao.baidu.com##.undefined._3RmxTKlPzuCkzYl1ZqE2yE.uukjsi6a_zpZccrqYiI3k
+baijiahao.baidu.com##.undefined
 ! Csdn
 csdn.net##.feed-Sign-span
 ! Pixiv
