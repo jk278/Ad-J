@@ -1,6 +1,6 @@
-[Adblock J 0.1]
+[Adblock J]
 ! Title: AdJ
-! Version: 20211221
+! Version: 0.1
 ! powered by Adblock Plus and uBlock Origin
 !
 ! 微博
