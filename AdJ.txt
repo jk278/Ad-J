@@ -3,17 +3,10 @@
 ! Version: 0.2
 ! powered by Adblock Plus and uBlock Origin
 !
-! 微博
 m.weibo.cn##.wrap
-! 百家号
 baijiahao.baidu.com##.undefined
-! Csdn
 csdn.net##.feed-Sign-span
-! Pixiv
 pixiv.net##.ad-frame-container
-! 禁满天堂
 18comic.vip##.visible-sm.visible-xs.bot-per
-! Reddit
 reddit.com##.XPromoPill
-! Pornhub
 pornhub.com##.adContainer, .topAdContainter
