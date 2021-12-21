@@ -15,5 +15,5 @@ pixiv.net##.ad-frame-container
 18comic.vip##.visible-sm.visible-xs.bot-per
 ! Reddit
 reddit.com##.XPromoPill
-! 今日头条
-m.toutiao.com##.top-banner-container2, .logo
+! Pornhub
+pornhub.com##.adContainer, .topAdContainter
