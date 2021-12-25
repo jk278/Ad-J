@@ -10,3 +10,4 @@ pixiv.net##.ad-frame-container
 18comic.vip##.visible-sm.visible-xs.bot-per
 reddit.com##.XPromoPill
 pornhub.com##.adContainer, .topAdContainter
+3g.163.com##.bottom, header, .js-topad, .show
