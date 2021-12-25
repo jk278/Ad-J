@@ -3,7 +3,7 @@
 ! Version: 0.2
 ! powered by Adblock Plus and uBlock Origin
 !
-m.weibo.cn##.wrap
+weibo.cn##.wrap, .ad-wrap
 baijiahao.baidu.com##.undefined
 csdn.net##.feed-Sign-span
 pixiv.net##.ad-frame-container
