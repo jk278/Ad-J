@@ -6,7 +6,7 @@
 weibo.cn##.wrap, .ad-wrap
 baijiahao.baidu.com##.undefined
 csdn.net##.feed-Sign-span
-pixiv.net##.ad-frame-container, .information
+pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 18comic.vip##.visible-sm.visible-xs.bot-per
 reddit.com##.XPromoPill
 pornhub.com##.adContainer, .topAdContainter
