@@ -80,7 +80,7 @@ jingyan.baidu.com###wgt-ad-guess > .ad-card
 jingyan.baidu.com##.feed-ad-wrap
 
 
-! ----- 小众网站类 -----
+! ----- 实用网站类 -----
 ! 
 
 
