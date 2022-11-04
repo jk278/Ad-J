@@ -1,0 +1,127 @@
+[Adblock J Mobile]
+! Title: Ad-J
+! Version: 0.9.0
+! Last modified: 2022.11.4
+! powered by Adblock Plus and uBlock Origin
+! 自用去广告规则。移动端常用网站。
+! 移动端专用。
+
+
+! ----- 常用网站类 -----
+! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验
+
+! --哔哩哔哩-- https://m.bilibili.com --2022.11.4--
+m.bilibili.com##.large.openapp-dialog
+m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn
+m.bilibili.com##.m-float-openapp.launch-app-btn
+m.bilibili.com##.m-nav-openapp.launch-app-btn
+! 播放器弹窗
+m.bilibili.com##.mplayer-widescreen-callapp
+! 播放器跳转
+m.bilibili.com##.mplayer-fullscreen-call-app
+m.bilibili.com##.home-float-openapp.launch-app-btn
+
+! --知乎-- https://www.zhihu.com, https://zhuanlan.zhihu.com --2022.11.4--
+zhihu.com##.is-higher.OpenInAppButton
+! 右上角打开app↓↓
+! zhihu.com##.Button--blue.MobileAppHeader-downloadLink.Button
+zhihu.com##.AdBelowMoreAnswers
+zhihu.com##.MHotFeedAd
+zhihu.com##.MBannerAd
+! 去除盐选推荐，选择使用↓↓
+zhihu.com##.KfeCollection-VipRecommendCard
+zhihu.com##.Question-main > div > .MBannerAd
+
+! --简书-- https://www.jianshu.com -- 2022.11.4 --
+www.jianshu.com##.header-download
+www.jianshu.com##.app-open
+www.jianshu.com##.note__flow__download
+www.jianshu.com##.index_call-ad
+www.jianshu.com##.border.item
+www.jianshu.com##.call-app-Ad-bottom
+www.jianshu.com##.download
+www.jianshu.com##.footer-wrap > .slogan
+www.jianshu.com###free-reward-panel
+www.jianshu.com##.no-content > div
+www.jianshu.com##.write-comment
+www.jianshu.com##.recommend-ad.recommend-wrap
+www.jianshu.com##.more
+www.jianshu.com##.comment-open-app-btn-wrap
+! 不想看评论的点赞数，删掉 > .reply-btn↓↓
+www.jianshu.com##.comment-item.comment-item > .main > .comment-extra > .social-wrap > .reply-btn
+www.jianshu.com##.line-container
+! 要查看当前文章点赞数，不用这条↓↓
+www.jianshu.com##.note-graceful-button
+www.jianshu.com##.flow-list-ul > div > div
+www.jianshu.com###lwaAdFive 
+
+! --百度知道-- zhidao.baidu.com --2022.11.4--
+zhidao.baidu.com##.question-ads-exp
+zhidao.baidu.com###wap-youx-change-asp > div
+zhidao.baidu.com##.feed-recommend-title
+zhidao.baidu.com##.dl
+zhidao.baidu.com##.light-theme.wgt-replies
+zhidao.baidu.com##.light-theme.feed-recommend.mm-content-line.mm-content-box
+zhidao.baidu.com##.iknow-fixed-bottom-btn
+zhidao.baidu.com##.xiqrd6362ad
+zhidao.baidu.com##.light-theme.single-up-ads-wrapper
+
+! --百家号-- baijiahao.baidu.com --2022.11.4--
+baijiahao.baidu.com##.undefined
+baijiahao.baidu.com##.headDeflectorContainer
+baijiahao.baidu.com##.infinite-scroll-component__outerdiv
+baijiahao.baidu.com##.contentPadding.bottomTTSStruct
+baijiahao.baidu.com##div.contentPadding.contentMedia > div
+baijiahao.baidu.com##._3cAIWshMtS86T-V_NTTzch
+baijiahao.baidu.com##.followSuper
+
+! --百度经验-- jingyan.baidu.com --2022.11.4--
+jingyan.baidu.com###wgt-ad-guess > .ad-card
+jingyan.baidu.com##.feed-ad-wrap
+
+
+! ----- 小众网站类 -----
+! 
+
+
+! ----- 国外网站类 -----
+! 必应, 
+
+! 必应, https://cn.bing.com --2022.11.4--
+cn.bing.com##.b_ad
+
+
+! ----- 未命名分类1 -----
+! 
+
+
+! ----- 成人网站类 -----
+! 九色视频, 
+
+! 九色视频, 地址页: https://dizhi91.github.io 最新地址其一 --2022.11.4--
+github.jiuse360.xyz##div.mb-0.jsv-g1
+github.jiuse360.xyz##div.p-0.mb-0
+github.jiuse360.xyz###main > .row
+github.jiuse360.xyz##.text-center.alert-success.alert
+github.jiuse360.xyz###videoShowPage > .tab-content
+github.jiuse360.xyz###playerAdvLayer
+github.jiuse360.xyz###main > .p-0.mb-3.container-fluid
+github.jiuse360.xyz##.d-sm-none.d-block.container-fluid
+github.jiuse360.xyz##div.colVideoList:nth-of-type(-n+2)
+github.jiuse360.xyz###global-modals
+github.jiuse360.xyz##.show.fade.modal-backdrop
+
+
+! ----- 未分类 -----
+! 
+
+weibo.cn##.wrap, .ad-wrap
+baijiahao.baidu.com##.undefined
+csdn.net##.feed-Sign-span
+pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
+18comic.vip##.visible-sm.visible-xs.bot-per
+reddit.com##.XPromoPill
+pornhub.com##.adContainer, .topAdContainter
+3g.163.com##.bottom, header, .js-topad, .show
+xvideos.com###ad-header-mobile-contener
+main.m.taobao.com##button
