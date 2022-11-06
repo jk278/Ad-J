@@ -102,8 +102,6 @@ cn.bing.com##.opal_serpftrc.b_ans
 
 ! 九色视频, 地址页: https://dizhi91.github.io 最新地址其一 --2022.11.4--
 github.jiuse360.xyz###main > .row
-! github.jiuse360.xyz###global-modals
-! github.jiuse360.xyz##.show.fade.modal-backdrop
 github.jiuse360.xyz##.mb-0.jsv-g1.jsv
 github.jiuse360.xyz###main > .p-0.mb-3.container-fluid
 github.jiuse360.xyz##.d-sm-none.d-block.container-fluid
