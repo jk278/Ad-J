@@ -90,6 +90,7 @@ jingyan.baidu.com##.feed-ad-wrap
 ! 必应, https://cn.bing.com --2022.11.4--
 cn.bing.com##.b_ad
 www.bing.com###bnp_set_dse
+cn.bing.com##.opal_serpftrc.b_ans
 
 
 ! ----- 未命名分类1 -----
