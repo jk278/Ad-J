@@ -1,7 +1,7 @@
 [Adblock J Mobile]
 ! Title: Ad-J
 ! Version: 0.9.0
-! Last modified: 2022.11.4
+! Last modified: 2022.11.8
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -87,7 +87,7 @@ jingyan.baidu.com##.feed-ad-wrap
 ! ----- 国外网站类 -----
 ! 必应, 
 
-! 必应, https://cn.bing.com --2022.11.4--
+! --必应-- https://cn.bing.com --2022.11.4--
 cn.bing.com##.b_ad
 www.bing.com###bnp_set_dse
 cn.bing.com##.opal_serpftrc.b_ans
@@ -100,7 +100,7 @@ cn.bing.com##.opal_serpftrc.b_ans
 ! ----- 成人网站类 -----
 ! 九色视频, 
 
-! 九色视频, 地址页: https://dizhi91.github.io 最新地址其一 --2022.11.4--
+! --九色视频-- 地址页: https://dizhi91.github.io 最新地址其一 --2022.11.4--
 github.jiuse360.xyz###main > .row
 github.jiuse360.xyz##.mb-0.jsv-g1.jsv
 github.jiuse360.xyz###main > .p-0.mb-3.container-fluid
@@ -112,11 +112,20 @@ github.jiuse360.xyz###videoShowPage > .tab-content
 github.jiuse360.xyz##.text-center.alert-success.alert
 
 
+! ----- 影视网站类 -----
+! 歪片星球,
+
+! --歪片星球-- https://waipian5.com --2022.11.8--
+waipian5.com##.rm-h5
+waipian5.com##.rm-list.rm-two.player-rm
+waipian5.com##.player-recommend-float
+waipian5.com##.rm-list.rm-one
+
+
 ! ----- 未分类 -----
 ! 
 
 weibo.cn##.wrap, .ad-wrap
-baijiahao.baidu.com##.undefined
 csdn.net##.feed-Sign-span
 pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 18comic.vip##.visible-sm.visible-xs.bot-per
