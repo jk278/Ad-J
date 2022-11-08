@@ -104,7 +104,7 @@ www.pixiv.net##.premium-lead-new-t-info-home-top
 
 
 ! ----- 成人网站类 -----
-! 九色视频, Hello! AV Girls, xnxx, xvideos, 
+! 九色视频, hello av girls, xnxx, xvideos, 
 
 ! --九色视频-- 地址页: https://dizhi91.github.io 最新地址其一 --2022.11.4--
 github.jiuse360.xyz###main > .row
@@ -117,7 +117,7 @@ github.jiuse360.xyz###playerAdvLayer
 github.jiuse360.xyz###videoShowPage > .tab-content
 github.jiuse360.xyz##.text-center.alert-success.alert
 
-! --Hello! AV Girls-- https://www.helloavgirls.com --2022.11.8--
+! --hello av girls-- https://www.helloavgirls.com --2022.11.8--
 www.helloavgirls.com##div.ads.card:nth-of-type(n)
 www.helloavgirls.com##div.mobile_ad:nth-of-type(n)
 www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(2)
