@@ -85,12 +85,18 @@ jingyan.baidu.com##.feed-ad-wrap
 
 
 ! ----- 国外网站类 -----
-! 必应, 
+! 必应, pixiv, 
 
 ! --必应-- https://cn.bing.com --2022.11.4--
 cn.bing.com##.b_ad
 www.bing.com###bnp_set_dse
 cn.bing.com##.opal_serpftrc.b_ans
+
+! --pixiv-- https://www.pixiv.net --2022.11.8--
+www.pixiv.net##._gdpr-notify-header
+www.pixiv.net##.description-signup-header
+www.pixiv.net##.ad-frame-container
+www.pixiv.net##.premium-lead-new-t-info-home-top
 
 
 ! ----- 未命名分类1 -----
@@ -139,7 +145,7 @@ www.xvideos.com##.mobile-show-inline-block.badge
 www.xvideos.com###mobile-slogan > .mobile-slogan-red.btn > .icf-white-fill.icf-ticket-red.icon-f
 www.xvideos.com##.videoad-base
 www.xvideos.com##.video-ad-support-mobile.video-ad.thumb-block
-! www.xvideos.com###ad-header-mobile-contener
+www.xvideos.com###ad-header-mobile-contener
 
 
 ! ----- 影视网站类 -----
@@ -157,7 +163,6 @@ waipian5.com##.rm-list.rm-one
 
 weibo.cn##.wrap, .ad-wrap
 csdn.net##.feed-Sign-span
-pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 18comic.vip##.visible-sm.visible-xs.bot-per
 reddit.com##.XPromoPill
 pornhub.com##.adContainer, .topAdContainter
