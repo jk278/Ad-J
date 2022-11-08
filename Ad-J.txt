@@ -98,7 +98,7 @@ cn.bing.com##.opal_serpftrc.b_ans
 
 
 ! ----- 成人网站类 -----
-! 九色视频, 
+! 九色视频, Hello! AV Girls, xnxx, xvideos, 
 
 ! --九色视频-- 地址页: https://dizhi91.github.io 最新地址其一 --2022.11.4--
 github.jiuse360.xyz###main > .row
@@ -110,6 +110,36 @@ github.jiuse360.xyz##div.colVideoList:nth-of-type(-n+2)
 github.jiuse360.xyz###playerAdvLayer
 github.jiuse360.xyz###videoShowPage > .tab-content
 github.jiuse360.xyz##.text-center.alert-success.alert
+
+! --Hello! AV Girls-- https://www.helloavgirls.com --2022.11.8--
+www.helloavgirls.com##div.ads.card:nth-of-type(n)
+www.helloavgirls.com##div.mobile_ad:nth-of-type(n)
+www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(2)
+www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(4)
+www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(5)
+www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(7)
+
+! --xnxx-- https://www.xnxx.com --2022.11.8--
+www.xnxx.com###ad-header-mobile-contener
+www.xnxx.com##.video-ad-support-mobile.video-ad.thumb-block
+www.xnxx.com###content-ad-top-zone-contener
+www.xnxx.com##.premium-results-line
+www.xnxx.com##.is-filled.ad-support-mobile.ad-mobilerectangle
+www.xnxx.com###site-nav > .gold-plate
+www.xnxx.com###mobile-menu .gold-plate
+www.xnxx.com##.ad-support-mobile.is-filled.exo-ad-ins-container
+www.xnxx.com###x-home-messages
+www.xnxx.com##.videoad-base
+
+! --xvideos-- https://www.xvideos.com --2022.11.8--
+www.xvideos.com##.ad-support-mobile.is-filled.exo-ad-ins-container
+www.xvideos.com##.remove-ads
+www.xvideos.com##.red-ticket.red-label.label.btn-default.btn
+www.xvideos.com##.mobile-show-inline-block.badge
+www.xvideos.com###mobile-slogan > .mobile-slogan-red.btn > .icf-white-fill.icf-ticket-red.icon-f
+www.xvideos.com##.videoad-base
+www.xvideos.com##.video-ad-support-mobile.video-ad.thumb-block
+! www.xvideos.com###ad-header-mobile-contener
 
 
 ! ----- 影视网站类 -----
@@ -132,5 +162,4 @@ pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 reddit.com##.XPromoPill
 pornhub.com##.adContainer, .topAdContainter
 3g.163.com##.bottom, header, .js-topad, .show
-xvideos.com###ad-header-mobile-contener
 main.m.taobao.com##button
