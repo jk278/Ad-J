@@ -165,7 +165,7 @@ cn.pornhub.com##.delay.closeUrl
 
 
 ! ----- 影视网站类 -----
-! 歪片星球,
+! 歪片星球,土拨鼠电影, 
 
 ! --歪片星球-- https://waipian5.com --2022.11.8--
 waipian5.com##.rm-h5
@@ -173,6 +173,8 @@ waipian5.com##.rm-list.rm-two.player-rm
 waipian5.com##.player-recommend-float
 waipian5.com##.rm-list.rm-one
 
+! --土拨鼠电影-- https://www.tbsd.com --2022.11.9--
+www.tbsd.com##.download_app
 
 ! ----- 未分类 -----
 ! 
