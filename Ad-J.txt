@@ -165,7 +165,7 @@ cn.pornhub.com##.delay.closeUrl
 
 
 ! ----- 影视网站类 -----
-! 歪片星球,土拨鼠电影, 
+! 歪片星球,土拨鼠电影, libvio, 
 
 ! --歪片星球-- https://waipian5.com --2022.11.8--
 waipian5.com##.rm-h5
@@ -175,6 +175,10 @@ waipian5.com##.rm-list.rm-one
 
 ! --土拨鼠电影-- https://www.tbsdy.com --2022.11.9--
 www.tbsdy.com##.download_app
+
+! --libvio-- https://www.libvio.me --2022.11.9--
+www.libvio.me##div.container:nth-of-type(2)
+www.libvio.me##.t-img-box
 
 ! ----- 未分类 -----
 ! 
