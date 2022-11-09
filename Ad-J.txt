@@ -173,8 +173,8 @@ waipian5.com##.rm-list.rm-two.player-rm
 waipian5.com##.player-recommend-float
 waipian5.com##.rm-list.rm-one
 
-! --土拨鼠电影-- https://www.tbsd.com --2022.11.9--
-www.tbsd.com##.download_app
+! --土拨鼠电影-- https://www.tbsdy.com --2022.11.9--
+www.tbsdy.com##.download_app
 
 ! ----- 未分类 -----
 ! 
