@@ -87,6 +87,9 @@ main.m.taobao.com###SLK_evokeUi_v2_wrap
 ! --拼多多-- http://panduoduo.yangkeduo.com --2022.11.9--
 panduoduo.yangkeduo.com##.pdd-go-to-app
 panduoduo.yangkeduo.com###devtoolTag
+panduoduo.yangkeduo.com###recommend-wrapper
+panduoduo.yangkeduo.com###recommend-head
+panduoduo.yangkeduo.com##.goods-list-container
 
 ! ----- 实用网站类 -----
 ! 
