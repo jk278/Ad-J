@@ -21,6 +21,8 @@ m.bilibili.com##.mplayer-widescreen-callapp
 ! 播放器全屏跳转，解决无法全屏的问题
 m.bilibili.com##.mplayer-fullscreen-call-app
 m.bilibili.com##.home-float-openapp.launch-app-btn
+m.bilibili.com##.mplayer-control-btn-quality
+m.bilibili.com##.mplayer-control-btn-speed
 
 ! --知乎-- https://www.zhihu.com, https://zhuanlan.zhihu.com --2022.11.4--
 zhihu.com##.is-higher.OpenInAppButton
