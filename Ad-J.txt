@@ -1,7 +1,7 @@
 [Adblock J Mobile]
 ! Title: Ad-J
 ! Version: 0.9.0
-! Last modified: 2022.11.11
+! Last modified: 2022.11.13
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -10,6 +10,7 @@
 ! ----- 常用网站类 -----
 ! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验
 ! 淘宝, 拼多多, 
+! csdn
 
 ! --哔哩哔哩-- https://m.bilibili.com --2022.11.11--
 m.bilibili.com##.large.openapp-dialog
@@ -92,6 +93,12 @@ panduoduo.yangkeduo.com###devtoolTag
 panduoduo.yangkeduo.com###recommend-wrapper
 panduoduo.yangkeduo.com###recommend-head
 panduoduo.yangkeduo.com##.goods-list-container
+
+! --csdn-- https://blog.csdn.net --2022.11.13--
+blog.csdn.net##.feed-Sign-span
+blog.csdn.net##.wap-shadowbox.weixin-shadowbox
+blog.csdn.net##.openApp
+
 
 ! ----- 实用网站类 -----
 ! 
@@ -187,7 +194,6 @@ www.libvio.me##.t-img-box
 ! 
 
 weibo.cn##.wrap, .ad-wrap
-csdn.net##.feed-Sign-span
 18comic.vip##.visible-sm.visible-xs.bot-per
 reddit.com##.XPromoPill
 3g.163.com##.bottom, header, .js-topad, .show
