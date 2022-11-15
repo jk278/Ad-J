@@ -1,7 +1,7 @@
 [Adblock J Mobile]
 ! Title: Ad-J
 ! Version: 0.9.0
-! Last modified: 2022.11.13
+! Last modified: 2022.11.16
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -126,17 +126,17 @@ www.pixiv.net##.premium-lead-new-t-info-home-top
 ! ----- 成人网站类 -----
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, 
 
-! --九色视频-- 地址页: https://dizhi91.github.io 最新地址其一 --2022.11.4--
-github.jiuse360.xyz###main > .row
-github.jiuse360.xyz##.mb-0.jsv-g1.jsv
-github.jiuse360.xyz###main > .p-0.mb-3.container-fluid
-github.jiuse360.xyz##.d-sm-none.d-block.container-fluid
-github.jiuse360.xyz##.p-0.mb-0.container-fluid
-github.jiuse360.xyz##div.colVideoList:nth-of-type(-n+2)
-github.jiuse360.xyz###playerAdvLayer
-github.jiuse360.xyz###videoShowPage > .tab-content
-github.jiuse360.xyz##.text-center.alert-success.alert
-github.jiuse360.xyz##.navTab.row.title
+! --九色视频-- 地址页: https://dizhi91.github.io 最新地址其一 --2022.11.16--
+github.jiuse370.xyz###main > .row
+github.jiuse370.xyz##.mb-0.jsv-g1.jsv
+github.jiuse370.xyz###main > .p-0.mb-3.container-fluid
+github.jiuse370.xyz##.d-sm-none.d-block.container-fluid
+github.jiuse370.xyz##.p-0.mb-0.container-fluid
+github.jiuse370.xyz##div.colVideoList:nth-of-type(-n+2)
+github.jiuse370.xyz###playerAdvLayer
+github.jiuse370.xyz###videoShowPage > .tab-content
+github.jiuse370.xyz##.text-center.alert-success.alert
+github.jiuse370.xyz##.navTab.row.title
 
 ! --hello av girls-- https://www.helloavgirls.com --2022.11.8--
 www.helloavgirls.com##div.ads.card:nth-of-type(n)
