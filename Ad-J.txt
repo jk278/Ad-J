@@ -84,7 +84,7 @@ jingyan.baidu.com###wgt-ad-guess > .ad-card
 jingyan.baidu.com##.feed-ad-wrap
 
 ! --淘宝-- https://main.m.taobao.com --2022.11.9--
-! main.m.taobao.com##button
+main.m.taobao.com##button
 main.m.taobao.com###SLK_evokeUi_v2_wrap
 
 ! --拼多多-- http://panduoduo.yangkeduo.com --2022.11.9--
