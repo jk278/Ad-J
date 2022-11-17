@@ -155,8 +155,7 @@ www.helloavgirls.com##, .right-columns.card-columns > div.card:nth-of-type(7)
 
 ! <h4>**xnxx**</h4>  `2022.11.8`
 www.xnxx.com###ad-header-mobile-contener
-, .video-ad-support-mobile.video-ad.thumb-block
-! www.xnxx.com##content-ad-top-zone-contener, .premium-results-line
+www.xnxx.com##.premium-results-line
 www.xnxx.com##.gold-plate
 www.xnxx.com##.ad-support-mobile
 www.xnxx.com###x-home-messages, .videoad-base
