@@ -28,12 +28,10 @@ m.bilibili.com##.mplayer-control-btn-quality, .mplayer-control-btn-speed
 
 ! <h4>**知乎**</h4>  `2022.11.4`
 ! www.zhihu.com, zhuanlan.zhihu.com
-www.zhihu.com##.is-higher.OpenInAppButton
-! 右上角打开app↓↓
-! www.zhihu.com##.Button--blue.MobileAppHeader-downloadLink.Button
 www.zhihu.com##.AdBelowMoreAnswers, .MHotFeedAd, .MBannerAd
-! 去除盐选推荐，选择使用↓↓
 www.zhihu.com##.KfeCollection-VipRecommendCard
+www.zhihu.com##.OpenGuide-wrapper
+zhihu.com##.is-higher.OpenInAppButton
 
 ! <h4>**简书**</h4>  `2022.11.4`
 www.jianshu.com##.header-download, .app-open, .note__flow__download
@@ -157,13 +155,10 @@ www.xnxx.com##.ad-support-mobile
 www.xnxx.com###x-home-messages, .videoad-base
 
 ! <h4>**xvideos**</h4>  `2022.11.8`
-www.xvideos.com##.ad-support-mobile.is-filled.exo-ad-ins-container
-www.xvideos.com##.remove-ads, .mobile-show-inline-block.badge
+www.xvideos.com##.ad-support-mobile, .remove-ads, .mobile-show-inline-block.badge
 www.xvideos.com##.red-ticket.red-label.label.btn-default.btn
 www.xvideos.com###mobile-slogan > .mobile-slogan-red.btn > .icf-white-fill.icf-ticket-red.icon-f
 www.xvideos.com##.videoad-base, #ad-header-mobile-contener
-www.xvideos.com##.video-ad-support-mobile.video-ad.thumb-block
-
 
 ! <h4>**pornhub**</h4>  `2022.11.9`
 cn.pornhub.com##.adContainer, .topAdContainter, .delay.closeUrl
