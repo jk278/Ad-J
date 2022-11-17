@@ -33,7 +33,7 @@ m.bilibili.com##.large.openapp-dialog
 
 ! <h4>**知乎**</h4>  `2022.11.4`
 ! www.zhihu.com, zhuanlan.zhihu.com
-zhihu.com##.is-higher.OpenInAppButton
+www.zhihu.com##.is-higher.OpenInAppButton
 ! 右上角打开app↓↓
 ! , .Button--blue.MobileAppHeader-downloadLink.Button
 , .AdBelowMoreAnswers
@@ -147,6 +147,11 @@ www.pixiv.net##._gdpr-notify-header
 ， .js-area-content.area-content
 ， .area-recommend
 ， .main > div > div
+3g.163.com##.area-top-card.area-card
+3g.163.com##.swiper-container-android.swiper-container-horizontal.swiper-container-initialized.widget-focusSlide.js-area-swiper.swiper-container
+3g.163.com##.widget-flowList .area-card
+3g.163.com##.widget-floatMenu
+3g.163.com##.s-openApp
 
 
 
