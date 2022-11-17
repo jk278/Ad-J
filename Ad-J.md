@@ -135,18 +135,21 @@ www.pixiv.net##._gdpr-notify-header
 ! 网易新闻, 
 
 ! <h4>**网易新闻**</h4>  `2022.11.17`
-! 3g.163.com##.bottom, header, .js-topad, .show
-3g.163.com##.area-float-card
+3g.163.com##.bottom
+, header
+, .js-topad
+, .show
+, .area-float-card
 , .area-card
-, .s-info > .s-openApp
 , .widget-floatMenu
 , footer > span
-, .swiper-wrapper
 , .js-area-topBanner.area-topBanner
 , .js-open-app
 , .js-area-content.area-content
 , .area-recommend
 , .main > div > div
+, .swiper-container-android
+, .s-openApp
 
 
 
