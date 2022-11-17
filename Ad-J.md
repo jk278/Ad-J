@@ -183,15 +183,15 @@ www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(7)
 
 ! --xnxx--  --2022.11.8--
 www.xnxx.com###ad-header-mobile-contener
-www.xnxx.com##.video-ad-support-mobile.video-ad.thumb-block
-www.xnxx.com###content-ad-top-zone-contener
-www.xnxx.com##.premium-results-line
-www.xnxx.com##.is-filled.ad-support-mobile.ad-mobilerectangle
-www.xnxx.com###site-nav > .gold-plate
-www.xnxx.com###mobile-menu .gold-plate
-www.xnxx.com##.ad-support-mobile.is-filled.exo-ad-ins-container
-www.xnxx.com###x-home-messages
-www.xnxx.com##.videoad-base
+, .video-ad-support-mobile.video-ad.thumb-block
+, content-ad-top-zone-contener
+, .premium-results-line
+, .is-filled.ad-support-mobile.ad-mobilerectangle
+, site-nav > .gold-plate
+, #mobile-menu .gold-plate
+, .ad-support-mobile.is-filled.exo-ad-ins-container
+, #x-home-messages
+, .videoad-base
 
 ! --xvideos--  --2022.11.8--
 www.xvideos.com##.ad-support-mobile.is-filled.exo-ad-ins-container
