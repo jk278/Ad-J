@@ -136,20 +136,20 @@ www.pixiv.net##._gdpr-notify-header
 
 ! <h4>**网易新闻**</h4>  `2022.11.17`
 3g.163.com##.bottom
-, header
-, .js-topad
-, .show
-, .area-float-card
-, .area-card
-, .widget-floatMenu
-, footer > span
-, .js-area-topBanner.area-topBanner
-, .js-open-app
-, .js-area-content.area-content
-, .area-recommend
-, .main > div > div
-, .swiper-container-android
-, .s-openApp
+,header
+,.js-topad
+,.show
+,.area-float-card
+,.area-card
+,.widget-floatMenu
+,footer > span
+,.js-area-topBanner.area-topBanner
+,.js-open-app
+,.js-area-content.area-content
+,.area-recommend
+,.main > div > div
+,.swiper-container-android
+,.s-openApp
 
 
 
