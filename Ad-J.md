@@ -1,6 +1,6 @@
 [Adblock J Mobile]
 ! Title: Ad-J
-! Version: 0.9.5
+! Version: 0.9.6
 ! Last modified: 2022.11.17
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
@@ -19,86 +19,55 @@
 ! csdn
 
 ! <h4>**哔哩哔哩**</h4>  `2022.11.11`
-m.bilibili.com##.large.openapp-dialog
-, .visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn
-, .m-float-openapp.launch-app-btn
-, .m-nav-openapp.launch-app-btn
+m.bilibili.com##.large.openapp-dialog, .launch-app-btn
 ! 播放器弹窗
-, .mplayer-widescreen-callapp
+m.bilibili.com##.mplayer-widescreen-callapp
 ! 播放器全屏跳转，解决无法全屏的问题
-, .mplayer-fullscreen-call-app
-, .home-float-openapp.launch-app-btn
-, .mplayer-control-btn-quality
-, .mplayer-control-btn-speed
+m.bilibili.com##.mplayer-fullscreen-call-app
+m.bilibili.com##.mplayer-control-btn-quality, .mplayer-control-btn-speed
 
 ! <h4>**知乎**</h4>  `2022.11.4`
 ! www.zhihu.com, zhuanlan.zhihu.com
 www.zhihu.com##.is-higher.OpenInAppButton
 ! 右上角打开app↓↓
-! , .Button--blue.MobileAppHeader-downloadLink.Button
-, .AdBelowMoreAnswers
-, .MHotFeedAd
-, .MBannerAd
+! www.zhihu.com##.Button--blue.MobileAppHeader-downloadLink.Button
+www.zhihu.com##.AdBelowMoreAnswers, .MHotFeedAd, .MBannerAd
 ! 去除盐选推荐，选择使用↓↓
-, .KfeCollection-VipRecommendCard
-, .Question-main > div > .MBannerAd
+www.zhihu.com##.KfeCollection-VipRecommendCard
 
 ! <h4>**简书**</h4>  `2022.11.4`
-www.jianshu.com##.header-download
-, .app-open
-, .note__flow__download
-, .index_call-ad
-, .border.item
-, .call-app-Ad-bottom
-, .download
-, .footer-wrap > .slogan
-, #free-reward-panel
-, .no-content > div
-, .write-comment
-, .recommend-ad.recommend-wrap
-, .more
-, .comment-open-app-btn-wrap
+www.jianshu.com##.header-download, .app-open, .note__flow__download
+www.jianshu.com##.index_call-ad, .border.item, .call-app-Ad-bottom
+www.jianshu.com##.download, .footer-wrap > .slogan, #free-reward-panel
+www.jianshu.com##.no-content > div, .write-comment, .recommend-ad
+www.jianshu.com##.more, .comment-open-app-btn-wrap, .line-container
+www.jianshu.com##.flow-list-ul > div > div, #lwaAdFive
 ! 不想看评论的点赞数，删掉 > .reply-btn↓↓
-, .comment-item.comment-item > .main > .comment-extra > .social-wrap > .reply-btn
-, .line-container
+www.jianshu.com##.comment-item.comment-item > .main > .comment-extra > .social-wrap > .reply-btn
 ! 要查看当前文章点赞数，不用这条↓↓
-, .note-graceful-button
-, .flow-list-ul > div > div
-, #lwaAdFive 
+www.jianshu.com##.note-graceful-button 
 
 ! <h4>**百度知道**</h4>  `2022.11.4`
-zhidao.baidu.com##.question-ads-exp
-, #wap-youx-change-asp > div
-, .feed-recommend-title
-, .dl
-, .light-theme.wgt-replies
-, .light-theme.feed-recommend.mm-content-line.mm-content-box
-, .iknow-fixed-bottom-btn
-, .xiqrd6362ad
-, .light-theme.single-up-ads-wrapper
+zhidao.baidu.com##.question-ads-exp, #wap-youx-change-asp > div, .feed-recommend-title
+zhidao.baidu.com##.dl, .light-theme.wgt-replies
+zhidao.baidu.com##.light-theme.feed-recommend.mm-content-line.mm-content-box
+zhidao.baidu.com##.iknow-fixed-bottom-btn, .xiqrd6362ad, .light-theme.single-up-ads-wrapper
 
 ! <h4>**百家号**</h4>  `2022.11.4`
-baijiahao.baidu.com##.undefined
-, .headDeflectorContainer
-, .infinite-scroll-component__outerdiv
-, .contentPadding.bottomTTSStruct
-, div.contentPadding.contentMedia > div
-, ._3cAIWshMtS86T-V_NTTzch
-, .followSuper
+baijiahao.baidu.com##.undefined, .headDeflectorContainer, .infinite-scroll-component__outerdiv
+baijiahao.baidu.com##.contentPadding.bottomTTSStruct, div.contentPadding.contentMedia > div
+baijiahao.baidu.com##._3cAIWshMtS86T-V_NTTzch, .followSuper
 
 ! <h4>**百度经验**</h4>  `2022.11.4`
-jingyan.baidu.com###wgt-ad-guess > .ad-card
-jingyan.baidu.com##.feed-ad-wrap
+jingyan.baidu.com###wgt-ad-guess > .ad-card, .feed-ad-wrap
 
 ! <h4>**csdn**</h4>  `2022.11.17`
 ! blog.csdn.net, www.csdn.net
-csdn.net##.active.feed-Sign-span
-, .active.openApp
 blog.csdn.net##.wap-shadowbox.weixin-shadowbox
-, .btn_open_app_prompt_div
-, .add-firstAd
-, #comment
+blog.csdn.net##.btn_open_app_prompt_div, .add-firstAd, #comment
 www.csdn.net##.m_toolbar_left_app_btn
+csdn.net##.active.feed-Sign-span, .active.openApp
+
 
 
 
@@ -106,12 +75,8 @@ www.csdn.net##.m_toolbar_left_app_btn
 ! mba智库, 
 
 ! <h4>**mba智库**</h4>  `2022.11.17`
-wiki.mbalib.com##.app-ad
-, #down-app-pop
-, #box-app-tip
-, .download_app.news-banner-container
-, .ke-lay-in-wiki.ke-lay
-, .download_app.download-text
+wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay-in-wiki.ke-lay
+wiki.mbalib.com##.download_app.news-banner-container, .download_app.download-text
 
 
 
@@ -124,10 +89,8 @@ www.bing.com###bnp_set_dse
 cn.bing.com##.opal_serpftrc.b_ans
 
 ! <h4>**pixiv**</h4>  `2022.11.8`
-www.pixiv.net##._gdpr-notify-header
-, .description-signup-header
-, .ad-frame-container
-, .premium-lead-new-t-info-home-top
+www.pixiv.net##._gdpr-notify-header, .description-signup-header
+www.pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 
 
 
@@ -146,10 +109,8 @@ www.pixiv.net##._gdpr-notify-header
 ! 歪片星球,土拨鼠电影, libvio, 
 
 ! <h4>**歪片星球**</h4>  `2022.11.8`
-waipian5.com##.rm-h5
-, .rm-list.rm-two.player-rm
-, .player-recommend-float
-, .rm-list.rm-one
+waipian5.com##.rm-h5, .rm-list.rm-two.player-rm
+waipian5.com##.player-recommend-float, .rm-list.rm-one
 
 ! <h4>**土拨鼠电影**</h4>  `2022.11.9`
 www.tbsdy.com##.download_app
@@ -168,11 +129,8 @@ main.m.taobao.com##button
 main.m.taobao.com###SLK_evokeUi_v2_wrap
 
 ! <h4>**拼多多**</h4>  --2022.11.9--
-panduoduo.yangkeduo.com##.pdd-go-to-app
-, #devtoolTag
-, #recommend-wrapper
-, #recommend-head
-, .goods-list-container
+panduoduo.yangkeduo.com##.pdd-go-to-app, #devtoolTag, #recommend-head
+panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 
 
 
@@ -181,51 +139,39 @@ panduoduo.yangkeduo.com##.pdd-go-to-app
 
 ! <h4>**九色视频**</h4>  `2022.11.16`
 ! 地址页: https://dizhi91.github.io 最新地址其一
-github.jiuse370.xyz###main > .row
-, .mb-0.jsv-g1.jsv
-, #main > .p-0.mb-3.container-fluid
-, .d-sm-none.d-block.container-fluid
-, .p-0.mb-0.container-fluid
-, div.colVideoList:nth-of-type(-n+2)
-, #playerAdvLayer
-, #videoShowPage > .tab-content
-, .text-center.alert-success.alert
-, .navTab.row.title
+github.jiuse370.xyz###main > .row, .mb-0.jsv-g1.jsv
+github.jiuse370.xyz##, #main > .p-0.mb-3.container-fluid, .d-sm-none.d-block.container-fluid
+github.jiuse370.xyz##, .p-0.mb-0.container-fluid, div.colVideoList:nth-of-type(-n+2)
+github.jiuse370.xyz##, #playerAdvLayer, #videoShowPage > .tab-content
+github.jiuse370.xyz##, .text-center.alert-success.alert, .navTab.row.title
 
 ! <h4>**hello av girls**</h4>  `2022.11.8`
 www.helloavgirls.com##div.ads.card:nth-of-type(n)
-, div.mobile_ad:nth-of-type(n)
-, .right-columns.card-columns > div.card:nth-of-type(2)
-, .right-columns.card-columns > div.card:nth-of-type(4)
-, .right-columns.card-columns > div.card:nth-of-type(5)
-, .right-columns.card-columns > div.card:nth-of-type(7)
+www.helloavgirls.com##, div.mobile_ad:nth-of-type(n)
+www.helloavgirls.com##, .right-columns.card-columns > div.card:nth-of-type(2)
+www.helloavgirls.com##, .right-columns.card-columns > div.card:nth-of-type(4)
+www.helloavgirls.com##, .right-columns.card-columns > div.card:nth-of-type(5)
+www.helloavgirls.com##, .right-columns.card-columns > div.card:nth-of-type(7)
 
 ! <h4>**xnxx**</h4>  `2022.11.8`
 www.xnxx.com###ad-header-mobile-contener
 , .video-ad-support-mobile.video-ad.thumb-block
-, content-ad-top-zone-contener
-, .premium-results-line
-, .is-filled.ad-support-mobile.ad-mobilerectangle
-, site-nav > .gold-plate
-, #mobile-menu .gold-plate
-, .ad-support-mobile.is-filled.exo-ad-ins-container
-, #x-home-messages
-, .videoad-base
+www.xnxx.com##content-ad-top-zone-contener, .premium-results-line
+www.xnxx.com##.gold-plate
+www.xnxx.com##, .ad-support-mobile
+www.xnxx.com##, #x-home-messages, .videoad-base
 
 ! <h4>**xvideos**</h4>  `2022.11.8`
 www.xvideos.com##.ad-support-mobile.is-filled.exo-ad-ins-container
-, .remove-ads
-, .red-ticket.red-label.label.btn-default.btn
-, .mobile-show-inline-block.badge
-, #mobile-slogan > .mobile-slogan-red.btn > .icf-white-fill.icf-ticket-red.icon-f
-, .videoad-base
-, .video-ad-support-mobile.video-ad.thumb-block
-, #ad-header-mobile-contener
+www.xvideos.com##.remove-ads, .mobile-show-inline-block.badge
+www.xvideos.com##.red-ticket.red-label.label.btn-default.btn
+www.xvideos.com###mobile-slogan > .mobile-slogan-red.btn > .icf-white-fill.icf-ticket-red.icon-f
+www.xvideos.com##.videoad-base, #ad-header-mobile-contener
+www.xvideos.com##.video-ad-support-mobile.video-ad.thumb-block
+
 
 ! <h4>**pornhub**</h4>  `2022.11.9`
-cn.pornhub.com##.adContainer
-, .topAdContainter
-, .delay.closeUrl
+cn.pornhub.com##.adContainer, .topAdContainter, .delay.closeUrl
 
 
 ! <h3>**未分类**</h3>
