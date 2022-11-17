@@ -29,9 +29,8 @@ m.bilibili.com##.mplayer-control-btn-quality, .mplayer-control-btn-speed
 ! <h4>**知乎**</h4>  `2022.11.4`
 ! www.zhihu.com, zhuanlan.zhihu.com
 www.zhihu.com##.AdBelowMoreAnswers, .MHotFeedAd, .MBannerAd
-www.zhihu.com##.KfeCollection-VipRecommendCard
 www.zhihu.com##.OpenGuide-wrapper
-zhihu.com##.is-higher.OpenInAppButton
+zhihu.com##.is-higher.OpenInAppButton, .KfeCollection-VipRecommendCard
 
 ! <h4>**简书**</h4>  `2022.11.4`
 www.jianshu.com##.header-download, .app-open, .note__flow__download
