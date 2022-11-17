@@ -148,19 +148,16 @@ www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(5)
 www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(7)
 
 ! <h4>**xnxx**</h4>  `2022.11.8`
-www.xnxx.com###.ad-support-mobile, ad-header-mobile-contener
-www.xnxx.com##.premium-results-line
-www.xnxx.com##.gold-plate
-www.xnxx.com###x-home-messages
+www.xnxx.com###.ad-support-mobile, .premium-results-line
+www.xnxx.com##.gold-plate, #x-home-messages
 
 ! <h4>**xvideos**</h4>  `2022.11.8`
-www.xvideos.com##.ad-support-mobile, .remove-ads, .mobile-show-inline-block.badge
-www.xvideos.com##.red-ticket.red-label.label.btn-default.btn
-www.xvideos.com###mobile-slogan, #ad-header-mobile-contener
-
+www.xvideos.com##.ad-support-mobile, .remove-ads, .live-cams
+www.xvideos.com##.red-ticket, #mobile-slogan
 
 ! <h4>**pornhub**</h4>  `2022.11.9`
 cn.pornhub.com##.adContainer, .topAdContainter, .delay.closeUrl
+
 
 
 ! <h3>**未分类**</h3>
