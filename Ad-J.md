@@ -7,16 +7,16 @@
 ! 移动端专用。
 
 
-!!! ----- 网站分类 -----
+!!! ---** 网站分类 **---
 !! 常用网站类, 实用网站类, 国外网站类, 资讯网站类
 !! 影视网站类, 购物网站类, 成人网站类, 未分类
 
 
-!! ----- 常用网站类 -----
+!! ---** 常用网站类 **---
 ! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验
 ! csdn
 
-! --哔哩哔哩--  --2022.11.11--
+! **哔哩哔哩**  --2022.11.11--
 m.bilibili.com##.large.openapp-dialog
 m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn
 m.bilibili.com##.m-float-openapp.launch-app-btn
@@ -29,7 +29,7 @@ m.bilibili.com##.home-float-openapp.launch-app-btn
 m.bilibili.com##.mplayer-control-btn-quality
 m.bilibili.com##.mplayer-control-btn-speed
 
-! --知乎--  --2022.11.4--
+! **知乎**  --2022.11.4--
 ! www.zhihu.com, zhuanlan.zhihu.com
 zhihu.com##.is-higher.OpenInAppButton
 ! 右上角打开app↓↓
@@ -41,7 +41,7 @@ zhihu.com##.MBannerAd
 zhihu.com##.KfeCollection-VipRecommendCard
 zhihu.com##.Question-main > div > .MBannerAd
 
-! --简书--  -- 2022.11.4 --
+! **简书**  -- 2022.11.4 --
 www.jianshu.com##.header-download
 www.jianshu.com##.app-open
 www.jianshu.com##.note__flow__download
@@ -64,7 +64,7 @@ www.jianshu.com##.note-graceful-button
 www.jianshu.com##.flow-list-ul > div > div
 www.jianshu.com###lwaAdFive 
 
-! --百度知道--  --2022.11.4--
+! **百度知道**  --2022.11.4--
 zhidao.baidu.com##.question-ads-exp
 zhidao.baidu.com###wap-youx-change-asp > div
 zhidao.baidu.com##.feed-recommend-title
@@ -75,7 +75,7 @@ zhidao.baidu.com##.iknow-fixed-bottom-btn
 zhidao.baidu.com##.xiqrd6362ad
 zhidao.baidu.com##.light-theme.single-up-ads-wrapper
 
-! --百家号--  --2022.11.4--
+! **百家号**  --2022.11.4--
 baijiahao.baidu.com##.undefined
 baijiahao.baidu.com##.headDeflectorContainer
 baijiahao.baidu.com##.infinite-scroll-component__outerdiv
@@ -84,7 +84,7 @@ baijiahao.baidu.com##div.contentPadding.contentMedia > div
 baijiahao.baidu.com##._3cAIWshMtS86T-V_NTTzch
 baijiahao.baidu.com##.followSuper
 
-! --百度经验--  --2022.11.4--
+! **百度经验**  --2022.11.4--
 jingyan.baidu.com###wgt-ad-guess > .ad-card
 jingyan.baidu.com##.feed-ad-wrap
 
@@ -94,10 +94,10 @@ blog.csdn.net##.wap-shadowbox.weixin-shadowbox
 blog.csdn.net##.openApp
 
 
-!! ----- 实用网站类 -----
+!! ---** 实用网站类 **---
 ! mba智库, 
 
-! --mba智库--  --2022.11.17--
+! **mba智库**  --2022.11.17--
 wiki.mbalib.com##.app-ad
 wiki.mbalib.com###down-app-pop
 wiki.mbalib.com###box-app-tip
@@ -106,15 +106,15 @@ wiki.mbalib.com##.ke-lay-in-wiki.ke-lay
 wiki.mbalib.com##.download_app.download-text
 
 
-!! ----- 国外网站类 -----
+!! ---** 国外网站类 **---
 ! 必应, pixiv, 
 
-! --必应--  --2022.11.4--
+! **必应**  --2022.11.4--
 cn.bing.com##.b_ad
 www.bing.com###bnp_set_dse
 cn.bing.com##.opal_serpftrc.b_ans
 
-! --pixiv-- https://www.pixiv.net --2022.11.8--
+! **pixiv** https://www.pixiv.net --2022.11.8--
 www.pixiv.net##._gdpr-notify-header
 www.pixiv.net##.description-signup-header
 www.pixiv.net##.ad-frame-container
@@ -125,31 +125,31 @@ www.pixiv.net##.premium-lead-new-t-info-home-top
 ! 
 
 
-!! ----- 影视网站类 -----
+!! ---** 影视网站类 **---
 ! 歪片星球,土拨鼠电影, libvio, 
 
-! --歪片星球--  --2022.11.8--
+! **歪片星球**  --2022.11.8--
 waipian5.com##.rm-h5
 waipian5.com##.rm-list.rm-two.player-rm
 waipian5.com##.player-recommend-float
 waipian5.com##.rm-list.rm-one
 
-! --土拨鼠电影--  --2022.11.9--
+! **土拨鼠电影**  --2022.11.9--
 www.tbsdy.com##.download_app
 
-! --libvio--  --2022.11.9--
+! **libvio**  --2022.11.9--
 www.libvio.me##div.container:nth-of-type(2)
 www.libvio.me##.t-img-box
 
 
-!! ----- 购物网站类 -----
+!! ---** 购物网站类 **---
 ! 淘宝, 拼多多, 
 
-! --淘宝--  --2022.11.9--
+! **淘宝**  --2022.11.9--
 main.m.taobao.com##button
 main.m.taobao.com###SLK_evokeUi_v2_wrap
 
-! --拼多多--  --2022.11.9--
+! **拼多多**  --2022.11.9--
 panduoduo.yangkeduo.com##.pdd-go-to-app
 panduoduo.yangkeduo.com###devtoolTag
 panduoduo.yangkeduo.com###recommend-wrapper
@@ -157,10 +157,10 @@ panduoduo.yangkeduo.com###recommend-head
 panduoduo.yangkeduo.com##.goods-list-container
 
 
-!! ----- 成人网站类 -----
+!! ---** 成人网站类 **---
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, 
 
-! --九色视频--  --2022.11.16--
+! **九色视频**  --2022.11.16--
 ! 地址页: https://dizhi91.github.io 最新地址其一
 github.jiuse370.xyz###main > .row
 github.jiuse370.xyz##.mb-0.jsv-g1.jsv
@@ -173,7 +173,7 @@ github.jiuse370.xyz###videoShowPage > .tab-content
 github.jiuse370.xyz##.text-center.alert-success.alert
 github.jiuse370.xyz##.navTab.row.title
 
-! --hello av girls--  --2022.11.8--
+! **hello av girls**  --2022.11.8--
 www.helloavgirls.com##div.ads.card:nth-of-type(n)
 www.helloavgirls.com##div.mobile_ad:nth-of-type(n)
 www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(2)
@@ -181,7 +181,7 @@ www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(4)
 www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(5)
 www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(7)
 
-! --xnxx--  --2022.11.8--
+! **xnxx**  --2022.11.8--
 www.xnxx.com###ad-header-mobile-contener
 , .video-ad-support-mobile.video-ad.thumb-block
 , content-ad-top-zone-contener
@@ -193,7 +193,7 @@ www.xnxx.com###ad-header-mobile-contener
 , #x-home-messages
 , .videoad-base
 
-! --xvideos--  --2022.11.8--
+! **xvideos**  --2022.11.8--
 www.xvideos.com##.ad-support-mobile.is-filled.exo-ad-ins-container
 www.xvideos.com##.remove-ads
 www.xvideos.com##.red-ticket.red-label.label.btn-default.btn
@@ -203,13 +203,13 @@ www.xvideos.com##.videoad-base
 www.xvideos.com##.video-ad-support-mobile.video-ad.thumb-block
 www.xvideos.com###ad-header-mobile-contener
 
-! --pornhub--  --2022.11.9--
+! **pornhub**  --2022.11.9--
 cn.pornhub.com##.adContainer
 cn.pornhub.com##.topAdContainter
 cn.pornhub.com##.delay.closeUrl
 
 
-!! ----- 未分类 -----
+!! ---** 未分类 **---
 ! 
 
 m.baidu.com##.ec_wise_ad
