@@ -7,16 +7,16 @@
 ! 移动端专用。
 
 
-!!! <h2>**网站分类**</h2>
-!! 常用网站类, 实用网站类, 国外网站类, 资讯网站类
-!! 影视网站类, 购物网站类, 成人网站类, 未分类
+! <h2>**网站分类**</h2>
+! 常用网站类, 实用网站类, 国外网站类, 资讯网站类
+! 影视网站类, 购物网站类, 成人网站类, 未分类
 
 
-!! ---**常用网站类**---
+! <h3>**常用网站类**</h3>
 ! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验
 ! csdn
 
-! **哔哩哔哩**  --2022.11.11--
+! <h4>**哔哩哔哩**  --2022.11.11--
 m.bilibili.com##.large.openapp-dialog
 m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn
 m.bilibili.com##.m-float-openapp.launch-app-btn
@@ -94,7 +94,7 @@ blog.csdn.net##.wap-shadowbox.weixin-shadowbox
 blog.csdn.net##.openApp
 
 
-!! ---** 实用网站类 **---
+!! <h3>** 实用网站类 **</h3>
 ! mba智库, 
 
 ! **mba智库**  --2022.11.17--
@@ -106,7 +106,7 @@ wiki.mbalib.com##.ke-lay-in-wiki.ke-lay
 wiki.mbalib.com##.download_app.download-text
 
 
-!! ---** 国外网站类 **---
+!! <h3>** 国外网站类 **</h3>
 ! 必应, pixiv, 
 
 ! **必应**  --2022.11.4--
@@ -125,7 +125,7 @@ www.pixiv.net##.premium-lead-new-t-info-home-top
 ! 
 
 
-!! ---** 影视网站类 **---
+!! <h3>** 影视网站类 **</h3>
 ! 歪片星球,土拨鼠电影, libvio, 
 
 ! **歪片星球**  --2022.11.8--
@@ -142,7 +142,7 @@ www.libvio.me##div.container:nth-of-type(2)
 www.libvio.me##.t-img-box
 
 
-!! ---** 购物网站类 **---
+!! <h3>** 购物网站类 **</h3>
 ! 淘宝, 拼多多, 
 
 ! **淘宝**  --2022.11.9--
@@ -157,7 +157,7 @@ panduoduo.yangkeduo.com###recommend-head
 panduoduo.yangkeduo.com##.goods-list-container
 
 
-!! ---** 成人网站类 **---
+!! <h3>** 成人网站类 **</h3>
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, 
 
 ! **九色视频**  --2022.11.16--
@@ -209,7 +209,7 @@ cn.pornhub.com##.topAdContainter
 cn.pornhub.com##.delay.closeUrl
 
 
-!! ---** 未分类 **---
+!! <h3>** 未分类 **</h3>
 ! 
 
 m.baidu.com##.ec_wise_ad
