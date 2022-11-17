@@ -60,7 +60,7 @@ www.jianshu.com##.header-download
 , .comment-open-app-btn-wrap
 ! 不想看评论的点赞数，删掉 > .reply-btn↓↓
 , .comment-item.comment-item > .main > .comment-extra > .social-wrap > .reply-btn
-www.jianshu.com##.line-container
+, .line-container
 ! 要查看当前文章点赞数，不用这条↓↓
 , .note-graceful-button
 , .flow-list-ul > div > div
@@ -202,7 +202,8 @@ github.jiuse370.xyz###main > .row
 
 ! <h4>**hello av girls**</h4>  `2022.11.8`
 www.helloavgirls.com##div.ads.card:nth-of-type(n)
-, div.mobile_ad:nth-of-type(n), .right-columns.card-columns > div.card:nth-of-type(2)
+, div.mobile_ad:nth-of-type(n)
+, .right-columns.card-columns > div.card:nth-of-type(2)
 , .right-columns.card-columns > div.card:nth-of-type(4)
 , .right-columns.card-columns > div.card:nth-of-type(5)
 , .right-columns.card-columns > div.card:nth-of-type(7)
