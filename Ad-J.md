@@ -216,5 +216,5 @@ weibo.cn##.wrap, .ad-wrap
 reddit.com##.XPromoPill
 3g.163.com##.bottom, header, .js-topad, .show
 microsoftedge.microsoft.com###banner
-
+www.userscript.zone##.top.searcad.col-12
 
