@@ -63,7 +63,7 @@ www.jianshu.com##.note-graceful-button
 www.jianshu.com##.flow-list-ul > div > div
 www.jianshu.com###lwaAdFive 
 
-! --百度知道-- zhidao.baidu.com --2022.11.4--
+! --百度知道-- https://zhidao.baidu.com --2022.11.4--
 zhidao.baidu.com##.question-ads-exp
 zhidao.baidu.com###wap-youx-change-asp > div
 zhidao.baidu.com##.feed-recommend-title
@@ -74,7 +74,7 @@ zhidao.baidu.com##.iknow-fixed-bottom-btn
 zhidao.baidu.com##.xiqrd6362ad
 zhidao.baidu.com##.light-theme.single-up-ads-wrapper
 
-! --百家号-- baijiahao.baidu.com --2022.11.4--
+! --百家号-- https://baijiahao.baidu.com --2022.11.4--
 baijiahao.baidu.com##.undefined
 baijiahao.baidu.com##.headDeflectorContainer
 baijiahao.baidu.com##.infinite-scroll-component__outerdiv
@@ -83,7 +83,7 @@ baijiahao.baidu.com##div.contentPadding.contentMedia > div
 baijiahao.baidu.com##._3cAIWshMtS86T-V_NTTzch
 baijiahao.baidu.com##.followSuper
 
-! --百度经验-- jingyan.baidu.com --2022.11.4--
+! --百度经验-- https://jingyan.baidu.com --2022.11.4--
 jingyan.baidu.com###wgt-ad-guess > .ad-card
 jingyan.baidu.com##.feed-ad-wrap
 
