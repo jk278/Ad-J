@@ -148,7 +148,7 @@ www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(5)
 www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(7)
 
 ! <h4>**xnxx**</h4>  `2022.11.17`
-www.xnxx.com###.ad-support-mobile, .premium-results-line
+www.xnxx.com##.ad-support-mobile, .premium-results-line
 www.xnxx.com##.gold-plate, #x-home-messages
 
 ! <h4>**xvideos**</h4>  `2022.11.17`
