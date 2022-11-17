@@ -130,7 +130,8 @@ panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 
 
 ! <h3>**成人网站类**</h3>
-! 九色视频, hello av girls, xnxx, xvideos, pornhub, 
+! 九色视频, hello av girls, xnxx, xvideos, pornhub
+! hanime1, 
 
 ! <h4>**九色视频**</h4>  `2022.11.17`
 ! 地址页: https://dizhi91.github.io 最新地址其一
@@ -157,6 +158,11 @@ www.xvideos.com##.red-ticket, #mobile-slogan
 
 ! <h4>**pornhub**</h4>  `2022.11.9`
 cn.pornhub.com##.adContainer, .topAdContainter, .delay.closeUrl
+
+! <h4>**hanime1**</h4>  `2022.11.17`
+hanime1.me###mobile-ad, #double-banners-adjust
+hanime1.me##.hidden-lg.hidden-md.hidden-sm > [src]
+hanime1.me###player-div-wrapper > .hidden-lg.hidden-md.hidden-sm > div
 
 
 
