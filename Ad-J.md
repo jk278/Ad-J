@@ -75,8 +75,7 @@ csdn.net##.active.feed-Sign-span, .active.openApp
 ! mba智库, 
 
 ! <h4>**mba智库**</h4>  `2022.11.17`
-wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay-in-wiki.ke-lay
-wiki.mbalib.com##.download_app.news-banner-container, .download_app.download-text
+wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
 
 
 
