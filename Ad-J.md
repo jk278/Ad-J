@@ -98,7 +98,7 @@ www.pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 ! 网易新闻, 
 
 ! <h4>**网易新闻**</h4>  `2022.11.17`
-3g.163.com##.bottom, header, .js-topad, .show, .area-float-card, .area-card
+3g.163.com##.area-card
 3g.163.com##.widget-floatMenu, footer > span, .js-area-topBanner.area-topBanner
 3g.163.com##.js-open-app, .js-area-content.area-content, .area-recommend
 3g.163.com##.main > div > div, .swiper-container-android, .s-openApp
