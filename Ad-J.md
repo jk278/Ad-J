@@ -91,10 +91,14 @@ jingyan.baidu.com###wgt-ad-guess > .ad-card
 jingyan.baidu.com##.feed-ad-wrap
 
 ! <h4>**csdn**</h4>  `2022.11.17`
-! blog.csdn.net, www.csdn.com
-blog.csdn.net##.feed-Sign-span
+! blog.csdn.net, www.csdn.net
+csdn.net##.active.feed-Sign-span
+, .active.openApp
 blog.csdn.net##.wap-shadowbox.weixin-shadowbox
-blog.csdn.net##.openApp
+, .btn_open_app_prompt_div
+, .add-firstAd
+, #comment
+www.csdn.net##.m_toolbar_left_app_btn
 
 
 
@@ -128,7 +132,21 @@ www.pixiv.net##._gdpr-notify-header
 
 
 ! <h3>**资讯网站类**</h3>
-! 
+! 网易新闻, 
+
+! <h4>**网易新闻**</h4>  `2022.11.17`
+! 3g.163.com##.bottom, header, .js-topad, .show
+3g.163.com##.area-float-card
+， .area-card
+， .s-info > .s-openApp
+， .widget-floatMenu
+， footer > span
+， .swiper-wrapper
+， .js-area-topBanner.area-topBanner
+， .js-open-app
+， .js-area-content.area-content
+， .area-recommend
+， .main > div > div
 
 
 
@@ -221,10 +239,11 @@ cn.pornhub.com##.adContainer
 ! 
 
 m.baidu.com##.ec_wise_ad
+m.baidu.com##.c-video-container
 weibo.cn##.wrap, .ad-wrap
 18comic.vip##.visible-sm.visible-xs.bot-per
 reddit.com##.XPromoPill
-3g.163.com##.bottom, header, .js-topad, .show
+
 microsoftedge.microsoft.com###banner
 www.userscript.zone##.top.searcad.col-12
 
