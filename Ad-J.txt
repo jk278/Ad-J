@@ -1,15 +1,19 @@
 [Adblock J Mobile]
 ! Title: Ad-J
 ! Version: 0.9.0
-! Last modified: 2022.11.16
+! Last modified: 2022.11.17
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
 
 
-! ----- 常用网站类 -----
+!!! ----- 网站分类 -----
+!! 常用网站类, 实用网站类, 国外网站类, 资讯网站类
+!! 影视网站类, 购物网站类, 成人网站类, 未分类
+
+
+!! ----- 常用网站类 -----
 ! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验
-! 淘宝, 拼多多, 
 ! csdn
 
 ! --哔哩哔哩-- https://m.bilibili.com --2022.11.11--
@@ -83,28 +87,25 @@ baijiahao.baidu.com##.followSuper
 jingyan.baidu.com###wgt-ad-guess > .ad-card
 jingyan.baidu.com##.feed-ad-wrap
 
-! --淘宝-- https://main.m.taobao.com --2022.11.9--
-main.m.taobao.com##button
-main.m.taobao.com###SLK_evokeUi_v2_wrap
-
-! --拼多多-- http://panduoduo.yangkeduo.com --2022.11.9--
-panduoduo.yangkeduo.com##.pdd-go-to-app
-panduoduo.yangkeduo.com###devtoolTag
-panduoduo.yangkeduo.com###recommend-wrapper
-panduoduo.yangkeduo.com###recommend-head
-panduoduo.yangkeduo.com##.goods-list-container
-
 ! --csdn-- https://blog.csdn.net --2022.11.13--
 blog.csdn.net##.feed-Sign-span
 blog.csdn.net##.wap-shadowbox.weixin-shadowbox
 blog.csdn.net##.openApp
 
 
-! ----- 实用网站类 -----
-! 
+!! ----- 实用网站类 -----
+! mba智库, 
+
+! --mba智库-- https://wiki.mbalib.com --2022.11.17--
+wiki.mbalib.com##.app-ad
+wiki.mbalib.com###down-app-pop
+wiki.mbalib.com###box-app-tip
+wiki.mbalib.com##.download_app.news-banner-container
+wiki.mbalib.com##.ke-lay-in-wiki.ke-lay
+wiki.mbalib.com##.download_app.download-text
 
 
-! ----- 国外网站类 -----
+!! ----- 国外网站类 -----
 ! 必应, pixiv, 
 
 ! --必应-- https://cn.bing.com --2022.11.4--
@@ -119,11 +120,43 @@ www.pixiv.net##.ad-frame-container
 www.pixiv.net##.premium-lead-new-t-info-home-top
 
 
-! ----- 未命名分类1 -----
+!! ----- 资讯网站类 -----
 ! 
 
 
-! ----- 成人网站类 -----
+!! ----- 影视网站类 -----
+! 歪片星球,土拨鼠电影, libvio, 
+
+! --歪片星球-- https://waipian5.com --2022.11.8--
+waipian5.com##.rm-h5
+waipian5.com##.rm-list.rm-two.player-rm
+waipian5.com##.player-recommend-float
+waipian5.com##.rm-list.rm-one
+
+! --土拨鼠电影-- https://www.tbsdy.com --2022.11.9--
+www.tbsdy.com##.download_app
+
+! --libvio-- https://www.libvio.me --2022.11.9--
+www.libvio.me##div.container:nth-of-type(2)
+www.libvio.me##.t-img-box
+
+
+!! ----- 购物网站类 -----
+! 淘宝, 拼多多, 
+
+! --淘宝-- https://main.m.taobao.com --2022.11.9--
+main.m.taobao.com##button
+main.m.taobao.com###SLK_evokeUi_v2_wrap
+
+! --拼多多-- http://panduoduo.yangkeduo.com --2022.11.9--
+panduoduo.yangkeduo.com##.pdd-go-to-app
+panduoduo.yangkeduo.com###devtoolTag
+panduoduo.yangkeduo.com###recommend-wrapper
+panduoduo.yangkeduo.com###recommend-head
+panduoduo.yangkeduo.com##.goods-list-container
+
+
+!! ----- 成人网站类 -----
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, 
 
 ! --九色视频-- 地址页: https://dizhi91.github.io 最新地址其一 --2022.11.16--
@@ -174,27 +207,14 @@ cn.pornhub.com##.topAdContainter
 cn.pornhub.com##.delay.closeUrl
 
 
-! ----- 影视网站类 -----
-! 歪片星球,土拨鼠电影, libvio, 
-
-! --歪片星球-- https://waipian5.com --2022.11.8--
-waipian5.com##.rm-h5
-waipian5.com##.rm-list.rm-two.player-rm
-waipian5.com##.player-recommend-float
-waipian5.com##.rm-list.rm-one
-
-! --土拨鼠电影-- https://www.tbsdy.com --2022.11.9--
-www.tbsdy.com##.download_app
-
-! --libvio-- https://www.libvio.me --2022.11.9--
-www.libvio.me##div.container:nth-of-type(2)
-www.libvio.me##.t-img-box
-
-! ----- 未分类 -----
+!! ----- 未分类 -----
 ! 
 
+m.baidu.com##.ec_wise_ad
 weibo.cn##.wrap, .ad-wrap
 18comic.vip##.visible-sm.visible-xs.bot-per
 reddit.com##.XPromoPill
 3g.163.com##.bottom, header, .js-topad, .show
+microsoftedge.microsoft.com###banner
+
 
