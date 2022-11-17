@@ -119,11 +119,11 @@ www.libvio.me##.t-img-box
 ! <h3>**购物网站类**</h3>
 ! 淘宝, 拼多多, 
 
-! <h4>**淘宝**</h4>  --2022.11.9--
+! <h4>**淘宝**</h4>  `2022.11.9`
 main.m.taobao.com##button
 main.m.taobao.com###SLK_evokeUi_v2_wrap
 
-! <h4>**拼多多**</h4>  --2022.11.9--
+! <h4>**拼多多**</h4>  `2022.11.9`
 panduoduo.yangkeduo.com##.pdd-go-to-app, #devtoolTag, #recommend-head
 panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 
@@ -132,7 +132,7 @@ panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 ! <h3>**成人网站类**</h3>
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, 
 
-! <h4>**九色视频**</h4>  `2022.11.16`
+! <h4>**九色视频**</h4>  `2022.11.17`
 ! 地址页: https://dizhi91.github.io 最新地址其一
 github.jiuse370.xyz###main >.row, .mb-0, .mb-3, .d-sm-none
 github.jiuse370.xyz##div.colVideoList:nth-of-type(-n+2)
@@ -147,11 +147,11 @@ www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(4)
 www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(5)
 www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(7)
 
-! <h4>**xnxx**</h4>  `2022.11.8`
+! <h4>**xnxx**</h4>  `2022.11.17`
 www.xnxx.com###.ad-support-mobile, .premium-results-line
 www.xnxx.com##.gold-plate, #x-home-messages
 
-! <h4>**xvideos**</h4>  `2022.11.8`
+! <h4>**xvideos**</h4>  `2022.11.17`
 www.xvideos.com##.ad-support-mobile, .remove-ads, .live-cams
 www.xvideos.com##.red-ticket, #mobile-slogan
 
