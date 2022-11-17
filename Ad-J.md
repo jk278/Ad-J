@@ -141,18 +141,18 @@ panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 ! <h4>**九色视频**</h4>  `2022.11.16`
 ! 地址页: https://dizhi91.github.io 最新地址其一
 github.jiuse370.xyz###main > .row, .mb-0.jsv-g1.jsv
-github.jiuse370.xyz##, #main > .p-0.mb-3.container-fluid, .d-sm-none.d-block.container-fluid
-github.jiuse370.xyz##, .p-0.mb-0.container-fluid, div.colVideoList:nth-of-type(-n+2)
-github.jiuse370.xyz##, #playerAdvLayer, #videoShowPage > .tab-content
-github.jiuse370.xyz##, .text-center.alert-success.alert, .navTab.row.title
+github.jiuse370.xyz###main > .p-0.mb-3.container-fluid, .d-sm-none.d-block.container-fluid
+github.jiuse370.xyz##.p-0.mb-0.container-fluid, div.colVideoList:nth-of-type(-n+2)
+github.jiuse370.xyz###playerAdvLayer, #videoShowPage > .tab-content
+github.jiuse370.xyz##.text-center.alert-success.alert, .navTab.row.title
 
 ! <h4>**hello av girls**</h4>  `2022.11.8`
 www.helloavgirls.com##div.ads.card:nth-of-type(n)
-www.helloavgirls.com##, div.mobile_ad:nth-of-type(n)
-www.helloavgirls.com##, .right-columns.card-columns > div.card:nth-of-type(2)
-www.helloavgirls.com##, .right-columns.card-columns > div.card:nth-of-type(4)
-www.helloavgirls.com##, .right-columns.card-columns > div.card:nth-of-type(5)
-www.helloavgirls.com##, .right-columns.card-columns > div.card:nth-of-type(7)
+www.helloavgirls.com##div.mobile_ad:nth-of-type(n)
+www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(2)
+www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(4)
+www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(5)
+www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(7)
 
 ! <h4>**xnxx**</h4>  `2022.11.8`
 www.xnxx.com###ad-header-mobile-contener
