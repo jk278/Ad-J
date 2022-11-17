@@ -79,13 +79,12 @@ wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
 
 
 
-! ----<h3>**国外网站类**</h3>----
+! <h3>**国外网站类**</h3>
 ! 必应, pixiv, 
 
 ! <h4>**必应**</h4>  `2022.11.4`
-cn.bing.com##.b_ad
+cn.bing.com##.b_ad, .b_ans
 www.bing.com###bnp_set_dse
-cn.bing.com##.opal_serpftrc.b_ans
 
 ! <h4>**pixiv**</h4>  `2022.11.8`
 www.pixiv.net##._gdpr-notify-header, .description-signup-header
@@ -98,9 +97,12 @@ www.pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 
 ! <h4>**网易新闻**</h4>  `2022.11.17`
 3g.163.com##.area-card
-3g.163.com##.widget-floatMenu, footer > span, .js-area-topBanner.area-topBanner
-3g.163.com##.js-open-app, .js-area-content.area-content, .area-recommend
+3g.163.com##.widget-floatMenu, footer > span
+, .js-area-topBanner.area-topBanner
+3g.163.com##.js-open-app
+, .js-area-content.area-content, .area-recommend
 3g.163.com##.main > div > div, .swiper-container-android, .s-openApp
+3g.163.com##.js-area
 
 
 
