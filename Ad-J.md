@@ -137,21 +137,16 @@ www.pixiv.net##._gdpr-notify-header
 ! <h4>**网易新闻**</h4>  `2022.11.17`
 ! 3g.163.com##.bottom, header, .js-topad, .show
 3g.163.com##.area-float-card
-， .area-card
-， .s-info > .s-openApp
-， .widget-floatMenu
-， footer > span
-， .swiper-wrapper
-， .js-area-topBanner.area-topBanner
-， .js-open-app
-， .js-area-content.area-content
-， .area-recommend
-， .main > div > div
-3g.163.com##.area-top-card.area-card
-3g.163.com##.swiper-container-android.swiper-container-horizontal.swiper-container-initialized.widget-focusSlide.js-area-swiper.swiper-container
-3g.163.com##.widget-flowList .area-card
-3g.163.com##.widget-floatMenu
-3g.163.com##.s-openApp
+, .area-card
+, .s-info > .s-openApp
+, .widget-floatMenu
+, footer > span
+, .swiper-wrapper
+, .js-area-topBanner.area-topBanner
+, .js-open-app
+, .js-area-content.area-content
+, .area-recommend
+, .main > div > div
 
 
 
