@@ -96,13 +96,9 @@ www.pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 ! 网易新闻, 
 
 ! <h4>**网易新闻**</h4>  `2022.11.17`
-3g.163.com##.area-card
+3g.163.com##.area-card, .js-open-app, .js-area
 3g.163.com##.widget-floatMenu, footer > span
-, .js-area-topBanner.area-topBanner
-3g.163.com##.js-open-app
-, .js-area-content.area-content, .area-recommend
 3g.163.com##.main > div > div, .swiper-container-android, .s-openApp
-3g.163.com##.js-area
 
 
 
@@ -140,7 +136,8 @@ panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 
 ! <h4>**九色视频**</h4>  `2022.11.16`
 ! 地址页: https://dizhi91.github.io 最新地址其一
-github.jiuse370.xyz###main > .row, .mb-0.jsv-g1.jsv
+! github.jiuse370.xyz###main > .row, .mb-0.jsv-g1.jsv
+github.jiuse370.xyz##.row, .jsv, mb-n
 github.jiuse370.xyz###main > .p-0.mb-3.container-fluid, .d-sm-none.d-block.container-fluid
 github.jiuse370.xyz##.p-0.mb-0.container-fluid, div.colVideoList:nth-of-type(-n+2)
 github.jiuse370.xyz###playerAdvLayer, #videoShowPage > .tab-content
