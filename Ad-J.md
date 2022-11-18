@@ -1,7 +1,7 @@
 [Adblock J Mobile]
 ! Title: Ad-J
 ! Version: 0.9.6
-! Last modified: 2022.11.17
+! Last modified: 2022.11.18
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -130,7 +130,7 @@ panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 
 ! <h3>**成人网站类**</h3>
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub
-! hanime1, 
+! hanime1, eporner, avgle, 
 
 ! <h4>**九色视频**</h4>  `2022.11.17`
 ! 地址页: https://dizhi91.github.io 最新地址其一
@@ -152,8 +152,8 @@ www.xnxx.com##.ad-support-mobile, .premium-results-line
 www.xnxx.com##.gold-plate, #x-home-messages
 
 ! <h4>**xvideos**</h4>  `2022.11.17`
-www.xvideos.com##.ad-support-mobile, .remove-ads, .live-cams
-www.xvideos.com##.red-ticket, #mobile-slogan
+www.xvideos.com##.ad-support-mobile, .remove-ads, .thumb-ad, .live-cams
+www.xvideos.com##.red-ticket, #mobile-slogan, .search-premium-tabs
 
 ! <h4>**pornhub**</h4>  `2022.11.9`
 cn.pornhub.com##.adContainer, .topAdContainter, .delay.closeUrl
@@ -163,16 +163,22 @@ hanime1.me###mobile-ad, #double-banners-adjust
 hanime1.me##.hidden-lg.hidden-md.hidden-sm > [src]
 hanime1.me###player-div-wrapper > .hidden-lg.hidden-md.hidden-sm > div
 
+! <h4>**eporner**</h4>  `2022.11.18`
+www.eporner.com###EPimLayerOuter, #admobiletop, #admobilefoot, #adinhead
+
+! <h4>**avgle**</h4>  `2022.11.18`
+avgle.com###exo-native, .col-md-3 > [src], .footer-banner
+
 
 
 ! <h3>**未分类**</h3>
 ! 
 
-m.baidu.com##.ec_wise_ad
-m.baidu.com##.c-video-container
+m.baidu.com##.ec_wise_ad, .c-video-container
 weibo.cn##.wrap, .ad-wrap
 18comic.vip##.visible-sm.visible-xs.bot-per
 reddit.com##.XPromoPill
+qingse.one###bottom-ads
 
 microsoftedge.microsoft.com###banner
 www.userscript.zone##.top.searcad.col-12
