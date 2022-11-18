@@ -1,5 +1,4 @@
 [Adblock J Mobile]
-
 ! Title: Ad-J
 
 ! Version: 0.9.6
