@@ -1,7 +1,7 @@
 [Adblock J Mobile]
 ! Title: Ad-J
 ! Version: 0.9.6
-! Last modified: 2022.11.18
+! Last modified: 2022.11.19
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -77,7 +77,7 @@ wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
 
 
 ! <h3>**国外网站类**</h3>
-! 必应, pixiv, 
+! 必应, pixiv, vilipix (pixiv镜像), 
 
 ! <h4>**必应**</h4>  `2022.11.4`
 cn.bing.com##.b_ad, .b_ans
@@ -86,6 +86,10 @@ www.bing.com###bnp_set_dse
 ! <h4>**pixiv**</h4>  `2022.11.8`
 www.pixiv.net##._gdpr-notify-header, .description-signup-header
 www.pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
+
+! <h4>**vilipix**</h4>  `2022.11.19`
+m.vilipix.com##.open-app-btn, .right, .download-app
+m.vilipix.com##.top-actions, .user-details-follow
 
 
 
