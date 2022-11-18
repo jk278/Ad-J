@@ -1,9 +1,15 @@
 [Adblock J Mobile]
+
 ! Title: Ad-J
+
 ! Version: 0.9.6
+
 ! Last modified: 2022.11.19
+
 ! powered by Adblock Plus and uBlock Origin
+
 ! 自用去广告规则。移动端常用网站。
+
 ! 移动端专用。
 
 
