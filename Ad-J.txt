@@ -62,12 +62,11 @@ baijiahao.baidu.com##._3cAIWshMtS86T-V_NTTzch, .followSuper
 ! --百度经验--  `2022.11.4`
 jingyan.baidu.com###wgt-ad-guess > .ad-card, .feed-ad-wrap
 
-! --csdn--  `2022.11.17`
+! --csdn--  `2022.11.19`
 ! blog.csdn.net, www.csdn.net
-blog.csdn.net##.wap-shadowbox.weixin-shadowbox
+blog.csdn.net##.wap-shadowbox, .comment-sofa-flag
 blog.csdn.net##.btn_open_app_prompt_div, .add-firstAd, #comment
-www.csdn.net##.m_toolbar_left_app_btn
-csdn.net##.active.feed-Sign-span, .active.openApp
+csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
 
 
 
