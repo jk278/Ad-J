@@ -79,7 +79,7 @@ csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
 wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
 
 ! --apkcombo--  `2022.11.19`
-apkcombo.com##.ax-revamp, .is-narrow.is-nav.column
+apkcombo.com##.ax-revamp, .diseanmevrtt, .is-narrow.is-nav.column
 
 
 
