@@ -11,7 +11,7 @@
 
 ! ----------------网站分类-----------------
 ! ----------------------------------------
-! 常用网站类, 实用网站类, 国外网站类, 资讯网站类
+! 常用网站类, 实用网站类, 国外网站类, 新闻资讯类
 ! 影视网站类, 购物网站类, 成人网站类, 未分类
 
 
@@ -73,6 +73,7 @@ csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
 
 ! ---------------实用网站类-----------------
 ! ----------------------------------------
+! 待分类: 知识网站类, 工具网站类
 ! mba智库, apkcombo, 
 
 ! --mba智库--  `2022.11.17`
@@ -103,14 +104,22 @@ m.vilipix.com##.top-actions, .user-details-follow
 
 
 
-! ---------------资讯网站类-----------------
+! ---------------新闻资讯类-----------------
 ! ----------------------------------------
-! 网易新闻, 
+! 网易新闻, 搜狐新闻
 
 ! --网易新闻--  `2022.11.17`
 3g.163.com##.area-card, .js-open-app, .js-area
 3g.163.com##.widget-floatMenu, footer > span
 3g.163.com##.main > div > div, .swiper-container-android, .s-openApp
+
+! --搜狐新闻--  `2022.11.20`
+m.sohu.com###middleText, #middleBanner, #bottomBanner
+m.sohu.com##.info-banner-wrapper, .top-bill-wrapper
+m.sohu.com##.middle-insert-ad, .common-ad, .center-header
+m.sohu.com##body > div > [src], .feed-list-scoped > div
+m.sohu.com##.f:nth-of-type(n):has(span.ad-tag)
+m.sohu.com##.feed-item-scoped:nth-of-type(n):has(span.tag)
 
 
 
