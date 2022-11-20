@@ -164,15 +164,14 @@ plugin.speedtest.cn##.active-ad
 
 ! --九色视频--  `2022.11.17`
 ! 地址页: https://dizhi91.github.io 最新地址其一
-github.jiuse370.xyz###main >.row, .mb-0, .mb-3, .d-sm-none
-github.jiuse370.xyz##div.colVideoList:nth-of-type(-n+2)
+github.jiuse370.xyz###main > .row, .mb-0, .mb-3, .d-sm-none
+github.jiuse370.xyz##.colVideoList:nth-of-type(-n+2)
 github.jiuse370.xyz###playerAdvLayer, #videoShowPage > .tab-content
 github.jiuse370.xyz##.alert, .navTab.row.title
 
 ! --hello av girls--  `2022.11.8`
-www.helloavgirls.com##div.ads.card:nth-of-type(n)
-www.helloavgirls.com##div.mobile_ad:nth-of-type(n)
-www.helloavgirls.com##.right-columns > .card:is(:nth-of-type(2), :nth-of-type(4), :nth-of-type(5), :nth-of-type(7))
+www.helloavgirls.com##.ads, .mobile_ad
+www.helloavgirls.com##.right-columns > .card > [src]
 
 ! --xnxx--  `2022.11.17`
 www.xnxx.com##.ad-support-mobile, .premium-results-line
