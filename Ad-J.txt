@@ -169,9 +169,9 @@ github.jiuse370.xyz##.colVideoList:nth-of-type(-n+2)
 github.jiuse370.xyz###playerAdvLayer, #videoShowPage > .tab-content
 github.jiuse370.xyz##.alert, .navTab.row.title
 
-! --hello av girls--  `2022.11.8`
+! --hello av girls--  `2022.11.20`
 www.helloavgirls.com##.ads, .mobile_ad
-www.helloavgirls.com##.right-columns > .card > [src]
+www.helloavgirls.com##.right-columns > .card [src]
 
 ! --xnxx--  `2022.11.17`
 www.xnxx.com##.ad-support-mobile, .premium-results-line
