@@ -140,13 +140,19 @@ wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
 
 ! ---------------工具网站类-----------------
 ! ----------------------------------------
-! apkcombo, apkdone, 
+! apkcombo, apkdone, speedtest (测速), 
 
 ! --apkcombo--  `2022.11.19`
 apkcombo.com##.ax-revamp, .diseanmevrtt, .is-narrow.is-nav.column
 
 ! --apkdone--  `2022.11.20`
 apkdone.com##.adsbygoogle, .adplaceholder-top
+
+! --speedtest--  `2022.11.20`
+m.speedtest.cn##.tools-banner, .endent_wrap, .item [href] [src], .mark_wrap
+m.speedtest.cn##.trial, .ad_icon, .summer_logo, .alertAd, .nologin-ad
+m.speedtest.cn##.footer > .item:is(:nth-of-type(2), :nth-of-type(3))
+plugin.speedtest.cn##.active-ad
 
 
 
