@@ -64,7 +64,7 @@ jingyan.baidu.com###wgt-ad-guess > .ad-card, .feed-ad-wrap
 
 ! --csdn--  `2022.11.19`
 ! blog.csdn.net, www.csdn.net
-blog.csdn.net##.wap-shadowbox, .comment-sofa-flag
+blog.csdn.net##.weixin-shadowbox, .comment-sofa-flag
 blog.csdn.net##.btn_open_app_prompt_div, .add-firstAd, #comment
 csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
 
