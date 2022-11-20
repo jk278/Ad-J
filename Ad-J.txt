@@ -171,7 +171,7 @@ github.jiuse370.xyz##.alert, .navTab.row.title
 
 ! --hello av girls--  `2022.11.20`
 www.helloavgirls.com##.ads, .mobile_ad
-www.helloavgirls.com##.right-columns > .card > :is([src], [href] > [src])
+www.helloavgirls.com##.right-columns > .card [src]:not(.card-img-top)
 
 ! --xnxx--  `2022.11.17`
 www.xnxx.com##.ad-support-mobile, .premium-results-line
