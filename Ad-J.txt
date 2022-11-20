@@ -1,7 +1,7 @@
 [Adblock J Mobile]
 ! Title: Ad-J
 ! Version: 0.9.6
-! Last modified: 2022.11.19
+! Last modified: 2022.11.20
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -22,13 +22,13 @@
 ! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验
 ! csdn
 
-! --哔哩哔哩--  `2022.11.11`
+! --哔哩哔哩--  `2022.11.20`
 m.bilibili.com##.large.openapp-dialog, .launch-app-btn
-! 播放器弹窗
-m.bilibili.com##.mplayer-widescreen-callapp
-! 播放器全屏跳转，解决无法全屏的问题
-m.bilibili.com##.mplayer-fullscreen-call-app
+! 播放器弹窗; 播放器全屏跳转，解决无法全屏的问题
+m.bilibili.com##.mplayer-widescreen-callapp, .mplayer-fullscreen-call-app
 m.bilibili.com##.mplayer-control-btn-quality, .mplayer-control-btn-speed
+www.bilibili.com##.float-btn, .open-btn
+
 
 ! --知乎--  `2022.11.4`
 ! www.zhihu.com, zhuanlan.zhihu.com
