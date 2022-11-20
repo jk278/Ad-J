@@ -1,6 +1,6 @@
 [Adblock J Mobile]
 ! Title: Ad-J
-! Version: 0.9.6
+! Version: 0.9.7
 ! Last modified: 2022.11.20
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
@@ -11,8 +11,9 @@
 
 ! ----------------网站分类-----------------
 ! ----------------------------------------
-! 常用网站类, 实用网站类, 国外网站类, 新闻资讯类
-! 影视网站类, 购物网站类, 成人网站类, 未分类
+! 常用网站类, 新闻资讯类, 影视网站类, 国外网站类
+! 知识网站类, 工具网站类, 成人网站类, 购物网站类
+! 未分类
 
 
 
@@ -20,7 +21,7 @@
 ! ---------------常用网站类-----------------
 ! ----------------------------------------
 ! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验
-! csdn
+! csdn, 
 
 ! --哔哩哔哩--  `2022.11.20`
 m.bilibili.com##.large.openapp-dialog, .launch-app-btn
@@ -70,42 +71,9 @@ csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
 
 
 
-! ---------------实用网站类-----------------
-! ----------------------------------------
-! 待分类: 知识网站类, 工具网站类
-! mba智库, apkcombo, 
-
-! --mba智库--  `2022.11.17`
-wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
-
-! --apkcombo--  `2022.11.19`
-apkcombo.com##.ax-revamp, .diseanmevrtt, .is-narrow.is-nav.column
-
-
-
-
-! ---------------国外网站类-----------------
-! ----------------------------------------
-! 必应, pixiv, vilipix (pixiv镜像), 
-
-! --必应--  `2022.11.4`
-cn.bing.com##.b_ad, .b_ans
-www.bing.com###bnp_set_dse
-
-! --pixiv--  `2022.11.8`
-www.pixiv.net##._gdpr-notify-header, .description-signup-header
-www.pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
-
-! --vilipix--  `2022.11.19`
-m.vilipix.com##.open-app-btn, .right, .download-app
-m.vilipix.com##.top-actions, .user-details-follow
-
-
-
-
 ! ---------------新闻资讯类-----------------
 ! ----------------------------------------
-! 网易新闻, 搜狐新闻
+! 网易新闻, 搜狐新闻, 
 
 ! --网易新闻--  `2022.11.17`
 3g.163.com##.area-card, .js-open-app, .js-area
@@ -141,17 +109,44 @@ www.libvio.me##.t-img-box
 
 
 
-! ---------------购物网站类-----------------
+! ---------------国外网站类-----------------
 ! ----------------------------------------
-! 淘宝, 拼多多, 
+! 必应, pixiv, vilipix (pixiv镜像), 
 
-! --淘宝--  `2022.11.9`
-main.m.taobao.com##button
-main.m.taobao.com###SLK_evokeUi_v2_wrap
+! --必应--  `2022.11.4`
+cn.bing.com##.b_ad, .b_ans
+www.bing.com###bnp_set_dse
 
-! --拼多多--  `2022.11.9`
-panduoduo.yangkeduo.com##.pdd-go-to-app, #devtoolTag, #recommend-head
-panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
+! --pixiv--  `2022.11.8`
+www.pixiv.net##._gdpr-notify-header, .description-signup-header
+www.pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
+
+! --vilipix--  `2022.11.19`
+m.vilipix.com##.open-app-btn, .right, .download-app
+m.vilipix.com##.top-actions, .user-details-follow
+
+
+
+
+! ---------------知识网站类-----------------
+! ----------------------------------------
+! mba智库, 
+
+! --mba智库--  `2022.11.17`
+wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
+
+
+
+
+! ---------------工具网站类-----------------
+! ----------------------------------------
+! apkcombo, apkdone, 
+
+! --apkcombo--  `2022.11.19`
+apkcombo.com##.ax-revamp, .diseanmevrtt, .is-narrow.is-nav.column
+
+! --apkdone--  `2022.11.20`
+apkdone.com##.adsbygoogle, .adplaceholder-top
 
 
 
@@ -197,6 +192,21 @@ www.eporner.com###EPimLayerOuter, #admobiletop, #admobilefoot, #adinhead
 
 ! --avgle--  `2022.11.18`
 avgle.com###exo-native, .col-md-3 > [src], .footer-banner
+
+
+
+
+! ---------------购物网站类-----------------
+! ----------------------------------------
+! 淘宝, 拼多多, 
+
+! --淘宝--  `2022.11.9`
+main.m.taobao.com##button
+main.m.taobao.com###SLK_evokeUi_v2_wrap
+
+! --拼多多--  `2022.11.9`
+panduoduo.yangkeduo.com##.pdd-go-to-app, #devtoolTag, #recommend-head
+panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 
 
 
