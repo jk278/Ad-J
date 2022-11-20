@@ -172,10 +172,7 @@ github.jiuse370.xyz##.alert, .navTab.row.title
 ! --hello av girls--  `2022.11.8`
 www.helloavgirls.com##div.ads.card:nth-of-type(n)
 www.helloavgirls.com##div.mobile_ad:nth-of-type(n)
-www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(2)
-www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(4)
-www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(5)
-www.helloavgirls.com##.right-columns.card-columns > div.card:nth-of-type(7)
+www.helloavgirls.com##.right-columns > .card:is(:nth-of-type(2), :nth-of-type(4), :nth-of-type(5), :nth-of-type(7))
 
 ! --xnxx--  `2022.11.17`
 www.xnxx.com##.ad-support-mobile, .premium-results-line
