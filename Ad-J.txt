@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Adfilter J Mobile
+! Title:  Mobile Ads filter J
 ! Version: 0.9.7
 ! Last modified: 2022.11.21
 ! powered by uBlock Origin and Adblock Plus
