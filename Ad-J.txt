@@ -1,7 +1,7 @@
 [Adblock J Mobile]
 ! Title: Ad-J
 ! Version: 0.9.7
-! Last modified: 2022.11.20
+! Last modified: 2022.11.21
 ! powered by Adblock Plus and uBlock Origin
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -173,7 +173,7 @@ github.jiuse370.xyz##.alert, .navTab.row.title
 www.helloavgirls.com##.ads, .mobile_ad
 www.helloavgirls.com##.right-columns > .card [src]:not(.card-img-top)
 
-! --xnxx--  `2022.11.17`
+! --xnxx--  `2022.11.21`
 www.xnxx.com##.ad-support-mobile, .premium-results-line, .remove-ads
 www.xnxx.com##.gold-plate, #x-home-messages
 
