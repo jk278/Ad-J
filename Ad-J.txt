@@ -175,7 +175,7 @@ www.helloavgirls.com##.right-columns > .card [src]:not(.card-img-top)
 
 ! --xnxx--  `2022.11.21`
 www.xnxx.com##.ad-support-mobile, .premium-results-line, .remove-ads
-www.xnxx.com##.gold-plate, #x-home-messages
+www.xnxx.com##.gold-plate, #x-home-messages, .thumb-ad
 
 ! --xvideos--  `2022.11.17`
 www.xvideos.com##.ad-support-mobile, .remove-ads, .thumb-ad, .live-cams
