@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.8
-! Last modified: 2022.11.23
+! Last modified: 2022.11.23_6_58
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -147,7 +147,7 @@ m.speedtest.cn##.footer > .item:is(:nth-of-type(2), :nth-of-type(3))
 plugin.speedtest.cn##.active-ad
 
 ! --423down--  `2022.11.23`
-www.423down.com###wrap > div:nth-of-type(2), .archive-list
+www.423down.com###wrap > div:nth-of-type(1), .archive-list
 
 
 ! --------------------------------------------------------------------------------
