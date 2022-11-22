@@ -132,7 +132,7 @@ wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
 ! --------------------------------------------------------------------------------
 ! ------------------------------------工具网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! apkcombo, apkdone, speedtest (测速), 
+! apkcombo, apkdone, speedtest (测速), 423down, 
 
 ! --apkcombo--  `2022.11.19`
 apkcombo.com##.ax-revamp, .diseanmevrtt, .is-narrow.is-nav.column
@@ -145,6 +145,9 @@ m.speedtest.cn##.tools-banner, .endent_wrap, .item [href] [src], .mark_wrap
 m.speedtest.cn##.trial, .ad_icon, .summer_logo, .alertAd, .nologin-ad
 m.speedtest.cn##.footer > .item:is(:nth-of-type(2), :nth-of-type(3))
 plugin.speedtest.cn##.active-ad
+
+! --423down--  `2022.11.23`
+www.423down.com###wrap > div:nth-of-type(2), .archive-list
 
 
 ! --------------------------------------------------------------------------------
