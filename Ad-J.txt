@@ -159,12 +159,12 @@ www.jpmn5.cc##body > [style]
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, hanime1, eporner, avgle, 
 ! 
 
-! --九色视频--  `2022.11.17`
+! --九色视频--  `2022.11.23`
 ! 地址页: https://dizhi91.github.io 最新地址其一
-github.jiuse370.xyz###main > .row, .mb-0, .mb-3, .d-sm-none
-github.jiuse370.xyz##.colVideoList:nth-of-type(-n+2)
-github.jiuse370.xyz###playerAdvLayer, #videoShowPage > .tab-content
-github.jiuse370.xyz##.alert, .navTab.row.title
+github.jiuse375.xyz###main > .row, .mb-0, .mb-3, .d-sm-none
+github.jiuse375.xyz##.colVideoList:nth-of-type(-n+2)
+github.jiuse375.xyz###playerAdvLayer, #videoShowPage > .tab-content
+github.jiuse375.xyz##.alert, .navTab.row.title
 
 ! --hello av girls--  `2022.11.20`
 www.helloavgirls.com##.ads, .mobile_ad
