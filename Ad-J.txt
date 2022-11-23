@@ -47,7 +47,7 @@ www.jianshu.com##.note-graceful-button
 
 ! --百度知道--  `2022.11.4`
 zhidao.baidu.com###knowledge-answer-list, #feed-recommend, .feed-recommend-title
-zhidao.baidu.com##.reply-item:has( > div[data-ispaychat="1"])
+zhidao.baidu.com##.reply-item:has(>div[data-ispaychat="1"]), div[id^="contextual"]
 
 ! --百家号--  `2022.11.4`
 baijiahao.baidu.com##.undefined, .headDeflectorContainer
