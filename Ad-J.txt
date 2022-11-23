@@ -139,7 +139,8 @@ m.speedtest.cn##.masking, .alertAd, .tools-banner, .ad_icon, .download-wrap
 plugin.speedtest.cn##.active-ad
 
 ! --423down--  `2022.11.23`
-www.423down.com##article:is( > div:last-child, + .archive-list)
+www.423down.com##article > div:last-child
+www.423down.com##article + .archive-list)
 
 
 ! --------------------------------------------------------------------------------
