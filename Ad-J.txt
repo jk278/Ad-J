@@ -149,7 +149,7 @@ www.423down.com##article + .archive-list
 ! jpxgmn
 
 ! --jpxgmn--  `2022.11.23`
-www.jpmn5.cc##div:has( > div[onclick])
+!www.jpmn5.cc##div:has( > div[onclick])
 www.jpmn5.cc##body > [style]
 
 
