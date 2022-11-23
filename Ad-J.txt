@@ -76,29 +76,22 @@ csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
 3g.163.com##.main > div > div, .swiper-container-android, .s-openApp
 
 ! --搜狐新闻--  `2022.11.20`
-m.sohu.com###middleText, #middleBanner, #bottomBanner
-m.sohu.com##.info-banner-wrapper, .top-bill-wrapper
-m.sohu.com##.middle-insert-ad, .common-ad, .center-header
-m.sohu.com##body > div > [src], .feed-list-scoped > div
-m.sohu.com##.f:nth-of-type(n):has(span.ad-tag)
-m.sohu.com##.feed-item-scoped:nth-of-type(n):has(span.tag)
+m.sohu.com###middleText, #middleBanner, #bottomBanner, .common-ad
+m.sohu.com##.info-banner-wrapper, .top-bill-wrapper, .middle-insert-ad
+m.sohu.com##.center-header, body > div > [src], .feed-list-scoped > div
+m.sohu.com##.f:has(span.ad-tag), .feed-item-scoped:has(span.tag)
 
 
 ! --------------------------------------------------------------------------------
 ! ------------------------------------影视网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! 歪片星球,土拨鼠电影, libvio, 
-
-! --歪片星球--  `2022.11.8`
-waipian5.com##.rm-h5, .rm-list.rm-two.player-rm
-waipian5.com##.player-recommend-float, .rm-list.rm-one
+! 土拨鼠电影, libvio, 
 
 ! --土拨鼠电影--  `2022.11.9`
 www.tbsdy.com##.download_app
 
 ! --libvio--  `2022.11.9`
-www.libvio.me##div.container:nth-of-type(2)
-www.libvio.me##.t-img-box
+www.libvio.me##div.container:nth-of-type(2), .t-img-box
 
 
 ! --------------------------------------------------------------------------------
@@ -139,10 +132,9 @@ apkcombo.com##.ax-revamp, .diseanmevrtt, .is-narrow.is-nav.column
 ! --apkdone--  `2022.11.20`
 apkdone.com##.adsbygoogle, .adplaceholder-top
 
-! --speedtest--  `2022.11.20`
-m.speedtest.cn##.tools-banner, .endent_wrap, .item [href] [src], .mark_wrap
-m.speedtest.cn##.trial, .ad_icon, .summer_logo, .alertAd, .nologin-ad
-m.speedtest.cn##.footer > .item:is(:nth-of-type(2), :nth-of-type(3))
+! --speedtest--  `2022.11.23`
+m.speedtest.cn##.footer > .item:not(:nth-of-type(1), :nth-of-type(4))
+m.speedtest.cn##.masking, .alertAd, .tools-banner, .ad_icon, .download-wrap
 plugin.speedtest.cn##.active-ad
 
 ! --423down--  `2022.11.23`
