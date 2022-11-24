@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.8
-! Last modified: 2022.11.24_15
+! Last modified: 2022.11.24_18
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -151,8 +151,11 @@ www.423down.com##article + .archive-list
 ! --------------------------------------------------------------------------------
 ! ------------------------------------成人网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! hello av girls, xnxx, xvideos, pornhub, hanime1, eporner, avgle, 
+! 九色视频, hello av girls, xnxx, xvideos, pornhub, hanime1, eporner, avgle, 
 ! 
+
+! --九色视频--  `2022.11.24`
+github.jiuse375.xyz##.col-sm, .d-sm-none, .colVideoList:nth-of-type(-n+2)
 
 ! --hello av girls--  `2022.11.20`
 www.helloavgirls.com##.ads, .mobile_ad
