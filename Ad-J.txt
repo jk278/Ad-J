@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.8
-! Last modified: 2022.11.24
+! Last modified: 2022.11.24_15
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -69,7 +69,7 @@ csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
 ! --------------------------------------------------------------------------------
 ! ------------------------------------新闻资讯-------------------------------------
 ! --------------------------------------------------------------------------------
-! 网易新闻, 搜狐新闻, 
+! 网易新闻, 搜狐新闻, 腾讯新闻, 
 
 ! --网易新闻--  `2022.11.17`
 3g.163.com##.area-card, .js-open-app, .js-area
@@ -81,6 +81,11 @@ m.sohu.com###middleText, #middleBanner, #bottomBanner, .common-ad
 m.sohu.com##.info-banner-wrapper, .top-bill-wrapper, .middle-insert-ad
 m.sohu.com##.center-header, body > div > [src], .feed-list-scoped > div
 m.sohu.com##.f:has(span.ad-tag), .feed-item-scoped:has(span.tag)
+
+! --腾讯新闻--  `2022.11.24`
+view.inews.qq.com##[class^="slider-top-bar_sliderWrapper"]
+view.inews.qq.com##[class^="normal_buttonWrap"]
+view.inews.qq.com##[class^="new-hot-comment_subText"]
 
 
 ! --------------------------------------------------------------------------------
