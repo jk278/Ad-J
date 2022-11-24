@@ -5,3 +5,26 @@
 移动端专用。
 
 powered by Adblock Plus and uBlock Origin.
+
+Ublock Origin 规则订阅：
+
+<details>
+    <summary><b>内置</b>(6)</summary>
+    <input type="checkbox" checked/>
+uBlock filters: <a href="">🔗规则订阅</a>
+
+    <input type="checkbox" checked/>
+uBlock filters – Badware risks: <a href="">🔗规则订阅</a>
+
+    <input type="checkbox" checked/>
+uBlock filters – Privacy: <a href="">🔗规则订阅</a>
+
+    <input type="checkbox" checked/>
+uBlock filters – Quick fixes: <a href="">🔗规则订阅</a>
+
+    <input type="checkbox" checked/>
+uBlock filters – Resource abuse: <a href="">🔗规则订阅</a>
+
+    <input type="checkbox" checked/>
+uBlock filters – Unbreak: <a href="">🔗规则订阅</a>
+</details>
