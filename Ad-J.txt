@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.8
-! Last modified: 2022.11.24_18
+! Last modified: 2022.11.28
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -212,3 +212,31 @@ qingse.one###bottom-ads
 microsoftedge.microsoft.com###banner
 www.userscript.zone##.top.searcad.col-12
 
+
+
+! -------------[域名拦截]---------------
+
+! ----1. jpmn5.cc 极品性感美女------------
+! -------------------------------------
+||c.j0rd.vip^
+||ak-d.tripcdn.com^
+||ali.static.yximgs.com^
+||cdn.sm.cn^
+
+! ----2. github.jiuse375.xyz 9色视频----------
+||n0566.com^
+||n0611.com^
+||529723929.com^
+||kvhdd.com^
+||n0533.com^
+||u1011.com^
+||img.2577u.com^
+||img.9395x.com^
+||img.2559u.com^
+||sezantp.oss-cn-hongkong.aliyuncs.com^
+||hm.baidu.com^
+||int.jstatic.xyz^
+||kvevv.com^
+
+! ----3. 百度广告域名------------------
+||bcebos.com^
