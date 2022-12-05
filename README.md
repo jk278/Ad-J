@@ -6,8 +6,7 @@
 
 powered by Adblock Plus and uBlock Origin.
 
-配合下面几个一起用：<br>
-AdGuard Base filter: https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt 
+配合下面两个一起使用：
 
 AdGuard Mobile Ads filter: https://filters.adtidy.org/extension/ublock/filters/11.txt 
 
