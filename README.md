@@ -6,25 +6,9 @@
 
 powered by Adblock Plus and uBlock Origin.
 
-Ublock Origin 规则订阅：
+配合下面几个一起用：<br>
+AdGuard Base filter: https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt 
 
-<details>
-    <summary><b>内置</b>(6)</summary>
-    <input type="checkbox" checked/>
-uBlock filters: <a href=""><img src="link.svg">规则订阅</a>
+AdGuard Mobile Ads filter: https://filters.adtidy.org/extension/ublock/filters/11.txt 
 
-    <input type="checkbox" checked/>
-uBlock filters – Badware risks: <a href=""><img src="link.svg">规则订阅</a>
-
-    <input type="checkbox" checked/>
-uBlock filters – Privacy: <a href=""><img src="link.svg">规则订阅</a>
-
-    <input type="checkbox" checked/>
-uBlock filters – Quick fixes: <a href=""><img src="link.svg">规则订阅</a>
-
-    <input type="checkbox" checked/>
-uBlock filters – Resource abuse: <a href=""><img src="link.svg">规则订阅</a>
-
-    <input type="checkbox" checked/>
-uBlock filters – Unbreak: <a href=""><img src="link.svg">规则订阅</a>
-</details>
+AdGuard Chinese filter: https://filters.adtidy.org/extension/ublock/filters/224.txt 
