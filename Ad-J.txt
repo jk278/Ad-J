@@ -155,7 +155,7 @@ www.423down.com##article + .archive-list
 ! 
 
 ! --九色视频--  `2022.11.24`
-github.jiuse375.xyz##.p-0, .need_grid_img
+github.jiuse*.xyz##.p-0, .need_grid_img
 
 ! --hello av girls--  `2022.11.20`
 www.helloavgirls.com##.ads, .mobile_ad
