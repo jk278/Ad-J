@@ -157,7 +157,10 @@ www.423down.com##article + .archive-list
 ! --九色视频--  `2022.12.5`
 ! ##[class*=mb] 不止一个类，^=是开头，$=是结尾
 ! via 浏览器使用 adblock plus
-jiuse379.xyz, jiuse380.xyz, jiuse381.xyz, jiuse382.xyz, jiuse383.xyz, jiuse384.xyz, jiuse385.xyz, jiuse386.xyz, jiuse387.xyz, jiuse388.xyz, jiuse389.xyz##.mb-0, .mb-3, div.colVideoList:nth-of-type(-n+2), .need_grid_img
+jiuse380.xyz, jiuse385.xyz, jiuse390.xyz##.mb-0, .mb-3, div.colVideoList:nth-of-type(-n+2)
+jiuse380.xyz, jiuse385.xyz, jiuse390.xyz##.need_grid_img, #playerAdvLayer, .text-center, .px-4.p-2
+
+
 
 ! --hello av girls--  `2022.11.20`
 www.helloavgirls.com##.ads, .mobile_ad
@@ -225,7 +228,8 @@ www.userscript.zone##.top.searcad.col-12
 ||ali.static.yximgs.com^
 ||cdn.sm.cn^
 
-! ----2. github.jiuse375.xyz 9色视频----------
+! ----2. github.jiuse390.xyz 九色视频----------
+||jstatic.xyz^
 ||n0566.com^
 ||n0611.com^
 ||529723929.com^
@@ -237,7 +241,6 @@ www.userscript.zone##.top.searcad.col-12
 ||img.2559u.com^
 ||sezantp.oss-cn-hongkong.aliyuncs.com^
 ||hm.baidu.com^
-||int.jstatic.xyz^
 ||kvevv.com^
 ! 双管道表示域名开始匹配，不加前面任何位置。
 aaa.com^
