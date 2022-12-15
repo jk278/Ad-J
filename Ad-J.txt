@@ -483,3 +483,6 @@ aaa.com^
 ! ----3. 百度广告域名------------------
 ! 误杀：https://byokpg.smartapps.cn
 ! ||bcebos.com^ 
+
+! ----3. javhub 等 av 网站------------------
+||img.gsspat.jp^
