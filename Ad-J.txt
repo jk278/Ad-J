@@ -486,3 +486,4 @@ aaa.com^
 
 ! ----3. javhub 等 av 网站------------------
 ||img.gsspat.jp^
+||b-hls-16.doppiocdn.com^
