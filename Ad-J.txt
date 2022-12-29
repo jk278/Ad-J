@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.9
-! Last modified: 2022.12.15
+! Last modified: 2022.12.29
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -348,8 +348,8 @@ www.libvio.me##div.container:nth-of-type(2), .t-img-box
 ! --------------------------------------------------------------------------------
 ! 必应, pixiv, vilipix (pixiv镜像), 
 
-! --必应--  `2022.11.4`
-cn.bing.com##.b_ad, .b_ans
+! --必应--  `2022.12.29`
+bing.com##.b_ad, .b_ans
 www.bing.com###bnp_set_dse
 
 ! --pixiv--  `2022.11.8`
@@ -453,7 +453,7 @@ panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 ! --------------------------------------------------------------------------------
 ! 
 
-m.baidu.com##.ec_wise_ad, .c-video-container
+m.baidu.com##.ec_wise_ad, .c-video-container, .c-blocka ec_title
 weibo.cn##.wrap, .ad-wrap
 18comic.vip##.visible-sm.visible-xs.bot-per
 reddit.com##.XPromoPill
