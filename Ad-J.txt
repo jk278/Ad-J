@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.9
-! Last modified: 2022.12.29
+! Last modified: 2023.2.22
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -155,11 +155,11 @@ www.423down.com##article + .archive-list
 ! 
 
 ! --九色视频--  `2022.12.5`
-! 地址为：jiuse390.xyz 失效后依次加10，配合 91porn vip 脚本使用
+! 地址为：jiuse390.xyz 失效后依次加10
 ! ##[class*=mb] 不止一个类，^=是开头，$=是结尾
 ! via 浏览器使用 adblock plus，元素过滤域名不包括子文件和通配符，via 域名并列不能用空格。ublock origin 也不能。
 ! AdGuard Chinese 已包含，只做一些补充
-91porny.com,jiuse380.xyz,jiuse390.xyz##div.colVideoList:nth-of-type(-n+2), .alert-success, .navTab
+jiuse390.xyz##div.colVideoList:nth-of-type(-n+2), .alert-success, .navTab
 
 ! --hello av girls--  `2022.11.20`
 www.helloavgirls.com##.ads, .mobile_ad
