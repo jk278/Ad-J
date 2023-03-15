@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.9
-! Last modified: 2023.2.22
+! Last modified: 2023.3.14
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -121,10 +121,13 @@ m.vilipix.com##.top-actions, .user-details-follow
 ! --------------------------------------------------------------------------------
 ! ------------------------------------知识网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! mba智库, 
+! mba智库, 汉典
 
 ! --mba智库--  `2022.11.17`
 wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
+
+!  --汉典--  `2023-03-14`
+www.zdic.net##.topslot_container
 
 
 ! --------------------------------------------------------------------------------
