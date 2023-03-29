@@ -6,7 +6,7 @@
 
 powered by Adblock Plus and uBlock Origin.
 
-规则订阅地址：https://raw.fastgit.org/jk278/Ad-J/main/Ad-J.txt
+规则订阅镜像地址：https://raw.githubusercontent.com/jk278/Ad-J/main/Ad-J.txt
 
 配合下面两个一起使用：
 
