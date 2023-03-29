@@ -105,8 +105,8 @@ www.libvio.me##div.container:nth-of-type(2), .t-img-box
 ! --------------------------------------------------------------------------------
 ! 必应, pixiv, vilipix (pixiv镜像), 
 
-! --必应--  `2022.11.4`
-cn.bing.com##.b_ad, .b_ans
+! --必应--  `2023.3.29`
+cn.bing.com##.b_ad
 www.bing.com###bnp_set_dse
 
 ! --pixiv--  `2022.11.8`
