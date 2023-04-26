@@ -8,7 +8,7 @@ powered by Adblock Plus and uBlock Origin.
 
 规则订阅地址：
 - 国内镜像1：https://raw.fastgit.org/jk278/Ad-J/main/Ad-J.txt
-- 国内镜像2：https://raw.githubusercontent.com/jk278/Ad-J/main/Ad-J.txt
+- 国内镜像2：https://raw.staticdn.net/jk278/Ad-J/main/Ad-J.txt
 
 配合下面两个一起使用：
 
