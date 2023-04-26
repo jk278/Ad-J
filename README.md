@@ -24,3 +24,7 @@ AdGuard Chinese filter: https://filters.adtidy.org/extension/ublock/filters/224.
 由于在 via 浏览器中，不同规则订阅之间会相互冲突，所以把 Ad-J 作为 AdGuard Chinese filter 的补充.<br>
 接下来会逐渐删除自建规则中与其冲突的部分。<br>
 也因此，使用以上三个规则订阅后，不再推荐 via 使用 AdGuard Base filter 与 EasyList. 浏览器插件不存在此问题。
+
+### 2023-4-26
+最近觉得没必要把所有广告去得干干净净，把弹窗和大幅广告去掉就行了。
+人生没有那么多完美，把重心放在生活上，何必过于折腾。
