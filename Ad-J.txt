@@ -165,9 +165,8 @@ www.423down.com##article + .archive-list
 ! via 浏览器使用 adblock plus，元素过滤域名不包括子文件和通配符。域名并列不能用空格。
 jiuse.icu##.mb-0.jsv-g1.jsv
 jiuse.icu##.p-0.container-fluid
-jiuse.icu##.mobile-jsv-bottom.mobile-jsv
 jiuse.icu###playerJsvLayer
-
+jiuse.icu###yp-home, .jsv-g1.jsv
 
 ! --hello av girls--  `2023.3.18`
 ||www.helloavgirls.com/img/banner$image
