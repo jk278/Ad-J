@@ -166,7 +166,6 @@ www.423down.com##article + .archive-list
 jiuse.icu##.mb-0.jsv-g1.jsv
 jiuse.icu##.p-0.container-fluid
 jiuse.icu###playerJsvLayer
-jiuse.icu###yp-home
 jiuse.icu##.d-sm-none.d-block.row
 
 ! --hello av girls--  `2023.3.18`
