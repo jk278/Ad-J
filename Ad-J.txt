@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.9
-! Last modified: 2023.5.7
+! Last modified: 2023.5.14
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -17,7 +17,7 @@
 ! --------------------------------------------------------------------------------
 ! ------------------------------------常用网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验, csdn, 
+! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验, csdn, 掘金, 
 !  
 
 ! --哔哩哔哩--  `2022.11.20`
@@ -64,6 +64,9 @@ jingyan.baidu.com###wgt-ad-guess > .ad-card, .feed-ad-wrap
 blog.csdn.net##.weixin-shadowbox, .comment-sofa-flag
 blog.csdn.net##.btn_open_app_prompt_div, .add-firstAd, #comment
 csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
+
+! --掘金-- `2023.5.14`
+juejin.cn##.app-open-button
 
 
 ! --------------------------------------------------------------------------------
