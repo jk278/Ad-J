@@ -21,7 +21,8 @@
 !  
 
 ! --哔哩哔哩--  `2023.6.9`
-m.bilibili.com##.m-nav-openapp, .m-float-openapp, .openapp-dialog, .m-video2-awaken-btn
+m.bilibili.com##.m-nav-openapp, .openapp-dialog, .m-video2-awaken-btn
+m.bilibili.com##.m-float-openapp, .home-float-openapp
 ! 播放器弹窗; 播放器全屏跳转，解决无法全屏的问题
 m.bilibili.com##.mplayer-widescreen-callapp, .mplayer-fullscreen-call-app
 m.bilibili.com##.mplayer-control-btn-quality, .mplayer-control-btn-speed
