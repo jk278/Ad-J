@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.9
-! Last modified: 2023.5.26
+! Last modified: 2023.6.8
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 移动端专用。
@@ -72,7 +72,7 @@ juejin.cn##.app-open-button
 ! --------------------------------------------------------------------------------
 ! ------------------------------------新闻资讯-------------------------------------
 ! --------------------------------------------------------------------------------
-! 网易新闻, 搜狐新闻, 腾讯新闻, 
+! 网易新闻, 搜狐新闻, 腾讯新闻, 360极速浏览器全网热搜, 
 
 ! --网易新闻--  `2022.11.17`
 3g.163.com##.area-card, .js-open-app, .js-area
@@ -90,11 +90,13 @@ view.inews.qq.com##[class^="slider-top-bar_sliderWrapper"]
 view.inews.qq.com##[class^="normal_buttonWrap"]
 view.inews.qq.com##[class^="new-hot-comment_subText"]
 
+! --360极速浏览器全网热搜--  `2023.6.8`
+h5.mse.360.cn##.top
 
 ! --------------------------------------------------------------------------------
 ! ------------------------------------影视网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! 土拨鼠电影, libvio, 
+! 土拨鼠电影, libvio, 番薯影视, 
 
 ! --土拨鼠电影--  `2022.11.9`
 www.tbsdy.com##.download_app
@@ -102,11 +104,13 @@ www.tbsdy.com##.download_app
 ! --libvio--  `2022.11.9`
 www.libvio.me##div.container:nth-of-type(2), .t-img-box
 
+! --番薯影视--  `2023.6.8`
+www.ys900.com##body > form
 
 ! --------------------------------------------------------------------------------
 ! ------------------------------------国外网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! gmail, 必应, pixiv, vilipix (pixiv镜像), 
+! gmail, 必应, pixiv, vilipix (pixiv镜像), pinterest, 
 
 ! --gmail-- `2023.5.7`
 mail.google.com###nav
@@ -122,6 +126,9 @@ www.pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 ! --vilipix--  `2022.11.19`
 m.vilipix.com##.open-app-btn, .right, .download-app
 m.vilipix.com##.top-actions, .user-details-follow
+
+! --pinterest-- `2023.6.8`
+www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
 
 
 ! --------------------------------------------------------------------------------
@@ -140,7 +147,7 @@ www.zdic.net##.topslot_container
 ! ------------------------------------工具网站-------------------------------------
 ! --------------------------------------------------------------------------------
 ! apkcombo, apkdone, speedtest (测速), 423down, 
-! 高德地图, 
+! 高德地图, QQ邮箱, 
 
 ! --apkcombo--  `2022.11.19`
 apkcombo.com##.ax-revamp, .diseanmevrtt, .is-narrow.is-nav.column
@@ -159,6 +166,10 @@ www.423down.com##article + .archive-list
 
 ! --高德地图--  `2023.5.26`
 m.amap.com##.clearfix.shadow
+
+! --QQ邮箱--  `2023.6.8`
+wap.mail.qq.com##.download_container
+
 
 ! --------------------------------------------------------------------------------
 ! ------------------------------------成人网站-------------------------------------
