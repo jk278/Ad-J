@@ -281,3 +281,6 @@ aaa.com^
 ||img.gsspat.jp^
 ||b-hls-16.doppiocdn.com^
 ||go.xlviirdr.com^
+
+! ----5. 九色视频 --------------------
+||img.1181999.com^
