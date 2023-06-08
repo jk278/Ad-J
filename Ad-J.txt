@@ -426,12 +426,10 @@ www.423down.com##article + .archive-list
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, hanime1, eporner, avgle, javhub
 ! 
 
-! --九色视频--  `2022.12.5`
-! 地址为：jiuse390.xyz 失效后依次加10，配合 91porn vip 脚本使用
+! --九色视频--  `2023.6.8`
 ! ##[class*=mb] 不止一个类，^=是开头，$=是结尾
-! via 浏览器使用 adblock plus，元素过滤域名不包括子文件和通配符，via 域名并列不能用空格。ublock origin 也不能。
-! AdGuard Chinese 已包含，只做一些补充
-91porny.com,jiuse380.xyz,jiuse390.xyz##div.colVideoList:nth-of-type(-n+2), .alert-success, .navTab
+! via 浏览器使用 adblock plus，元素过滤域名不包括子文件和通配符，域名并列不能用空格。
+
 
 ! --hello av girls--  `2022.11.20`
 www.helloavgirls.com##.ads, .mobile_ad
@@ -516,7 +514,10 @@ aaa.com^
 ! 误杀：https://byokpg.smartapps.cn
 ! ||bcebos.com^ 
 
-! ----3. javhub 等 av 网站------------------
+! ----4. javhub 等 av 网站------------------
 ||img.gsspat.jp^
 ||b-hls-16.doppiocdn.com^
 ||go.xlviirdr.com^
+
+! ----5. 360极速浏览器全网热搜-------------------
+||p5.ssl.qhimg.com/t016d2bab07c8ff3b05.png$image
