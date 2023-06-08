@@ -4,7 +4,7 @@
 ! Last modified: 2023.6.9
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
-! 移动端专用。
+! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
 
 
 ! --------------------------------------------------------------------------------
