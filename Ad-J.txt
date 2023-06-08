@@ -92,7 +92,7 @@ view.inews.qq.com##[class^="new-hot-comment_subText"]
 
 ! --360极速浏览器全网热搜--  `2023.6.8`
 h5.mse.360.cn##.top
-||p5.ssl.qhimg.com/t016d2bab07c8ff3b05.png$image
+||p5.ssl.qhimg.com*
 
 
 ! --------------------------------------------------------------------------------
