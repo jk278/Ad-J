@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
-! Version: 0.9.9
+! Version: 1.0.0
 ! Last modified: 2023.9.28
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
