@@ -239,8 +239,7 @@ missav.com##.under_player
 missav.com##.mb-5.space-y-5
 missav.com##.mb-2.-m-5
 missav.com##.mt-5
-||missav.com/pop?$popup
-||creative.live.missav.com/widgets/*
+||creative.live.missav.com/widgets/Spot/lib.js
 
 
 ! --------------------------------------------------------------------------------
