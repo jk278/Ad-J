@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.9
-! Last modified: 2023.6.9
+! Last modified: 2023.9.16
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -119,8 +119,9 @@ www.ys900.com##body > form
 ! --gmail-- `2023.5.7`
 mail.google.com###nav
 
-! --必应--  `2023.3.29`
+! --必应--  `2023.8.9`
 cn.bing.com##.b_ad
+cn.bing.com###b_lowerheader
 www.bing.com###bnp_set_dse
 
 ! --pixiv--  `2022.11.8`
@@ -138,13 +139,17 @@ www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
 ! --------------------------------------------------------------------------------
 ! ------------------------------------知识网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! mba智库, 汉典, 
+! mba智库, 汉典, 古诗文网
 
 ! --mba智库--  `2022.11.17`
 wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
 
 !  --汉典--  `2023-03-14`
 www.zdic.net##.topslot_container
+
+! --古诗文网--  `2023-9-16`
+m.gushiwen.cn##[href="javascript:goAbpNojump()"]
+m.gushiwen.cn##div.sons:has(#aAndroid)
 
 
 ! --------------------------------------------------------------------------------
@@ -180,7 +185,7 @@ wap.mail.qq.com##.download_container
 ! --------------------------------------------------------------------------------
 ! 警告：查看本分组前，请确认您已成年，我们不保证其内容的正确性，也不支持未成年人浏览类似网站
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, hanime1, eporner, avgle, javhub
-! reddit
+! reddit, krx18
 
 ! --九色视频--  `2023.6.8`
 ! ##[class*=mb] 不止一个类，^=是开头，$=是结尾
@@ -224,6 +229,10 @@ javhub.net##.my-2.container
 ! --reddit--  `2023.3.18`
 www.reddit.com##.TopNav__promoButton
 
+! --krx18--  `2023.8.28`
+krx18.com##center:nth-of-type(1)
+krx18.com##.st-has-labels.st-hidden.st-center.st-inline-reaction-buttons.sharethis-inline-reaction-buttons
+
 
 ! --------------------------------------------------------------------------------
 ! ------------------------------------购物网站-------------------------------------
@@ -252,7 +261,6 @@ qingse.one###bottom-ads
 
 microsoftedge.microsoft.com###banner
 www.userscript.zone##.top.searcad.col-12
-
 
 
 ! -------------[域名拦截]---------------
