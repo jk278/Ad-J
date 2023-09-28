@@ -91,9 +91,9 @@ view.inews.qq.com##[class^="slider-top-bar_sliderWrapper"]
 view.inews.qq.com##[class^="normal_buttonWrap"]
 view.inews.qq.com##[class^="new-hot-comment_subText"]
 
-! --360极速浏览器全网热搜--  `2023.6.8`
+! --360极速浏览器全网热搜--  `2023.9.28`
 h5.mse.360.cn##.top
-||p5.ssl.qhimg.com*
+||p5.ssl.qhimg.com^
 
 
 ! --------------------------------------------------------------------------------
