@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 0.9.9
-! Last modified: 2023.9.16
+! Last modified: 2023.9.28
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -185,7 +185,7 @@ wap.mail.qq.com##.download_container
 ! --------------------------------------------------------------------------------
 ! 警告：查看本分组前，请确认您已成年，我们不保证其内容的正确性，也不支持未成年人浏览类似网站
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, hanime1, eporner, avgle, javhub
-! reddit, krx18
+! reddit, krx18, missav
 
 ! --九色视频--  `2023.6.8`
 ! ##[class*=mb] 不止一个类，^=是开头，$=是结尾
@@ -233,6 +233,15 @@ www.reddit.com##.TopNav__promoButton
 krx18.com##center:nth-of-type(1)
 krx18.com##.st-has-labels.st-hidden.st-center.st-inline-reaction-buttons.sharethis-inline-reaction-buttons
 
+! --missav--  `2023.9.28`
+missav.com##body > iframe
+missav.com##.under_player
+missav.com##.mb-5.space-y-5
+missav.com##.mb-2.-m-5
+missav.com##.mt-5
+||missav.com/pop?$popup
+||creative.live.missav.com/widgets/*
+
 
 ! --------------------------------------------------------------------------------
 ! ------------------------------------购物网站-------------------------------------
@@ -272,15 +281,17 @@ www.userscript.zone##.top.searcad.col-12
 ||ali.static.yximgs.com^
 ||cdn.sm.cn^
 
-! ----2. github.jiuse390.xyz 九色视频----------
+! ----2. 九色视频----------
+! 双管道表示域名开始匹配，不加前面任何位置。
+aaa.com^
 ||jstatic.xyz^
 ||kvhdd.com^
 ||sezantp.oss-cn-hongkong.aliyuncs.com^
 ||hm.baidu.com^
 ||kvevv.com^
-! 双管道表示域名开始匹配，不加前面任何位置。
-aaa.com^
 ||360buyimg.com^
+||img.1181999.com^
+||uu6318uu.com^
 
 ! ----3. 百度广告域名------------------
 ! 误杀：https://byokpg.smartapps.cn
@@ -290,7 +301,3 @@ aaa.com^
 ||img.gsspat.jp^
 ||b-hls-16.doppiocdn.com^
 ||go.xlviirdr.com^
-
-! ----5. 九色视频 --------------------
-||img.1181999.com^
-||uu6318uu.com^
