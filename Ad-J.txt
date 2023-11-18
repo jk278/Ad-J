@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
-! Version: 1.0.0
-! Last modified: 2023.9.28
+! Version: 1.0.1
+! Last modified: 2023.11.18
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -116,12 +116,13 @@ www.ys900.com##body > form
 ! --------------------------------------------------------------------------------
 ! gmail, 必应, pixiv, vilipix (pixiv镜像), pinterest, 
 
-! --gmail-- `2023.5.7`
+! --gmail--  `2023.5.7`
 mail.google.com###nav
 
-! --必应--  `2023.8.9`
+! --必应--  `2023.11.18`
 cn.bing.com##.b_ad
 cn.bing.com###b_lowerheader
+cn.bing.com##.visible.bottom
 www.bing.com###bnp_set_dse
 
 ! --pixiv--  `2022.11.8`
@@ -139,7 +140,7 @@ www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
 ! --------------------------------------------------------------------------------
 ! ------------------------------------知识网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! mba智库, 汉典, 古诗文网
+! mba智库, 汉典, 古诗文网, 和图书
 
 ! --mba智库--  `2022.11.17`
 wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
@@ -150,6 +151,9 @@ www.zdic.net##.topslot_container
 ! --古诗文网--  `2023-9-16`
 m.gushiwen.cn##[href="javascript:goAbpNojump()"]
 m.gushiwen.cn##div.sons:has(#aAndroid)
+
+! --和图书--  `2023.11.18`
+m.hetushu.com##p.m1
 
 
 ! --------------------------------------------------------------------------------
@@ -184,18 +188,18 @@ wap.mail.qq.com##.download_container
 ! ------------------------------------成人网站-------------------------------------
 ! --------------------------------------------------------------------------------
 ! 警告：查看本分组前，请确认您已成年，我们不保证其内容的正确性，也不支持未成年人浏览类似网站
-! 九色视频, hello av girls, xnxx, xvideos, pornhub, hanime1, eporner, avgle, javhub
-! reddit, krx18, missav
+! 九色视频, hello av girls, xnxx, xvideos, pornhub, eporner, avgle, javhub
+! reddit, krx18, missav, hanime1
 
-! --九色视频--  `2023.6.8`
-! ##[class*=mb] 不止一个类，^=是开头，$=是结尾
-! via 浏览器使用 adblock plus，元素过滤域名不包括子文件和通配符，域名并列不能用空格。
-! ##.mb-0.jsv-g1.jsv, #playerJsvLayer, #yp-home, .p-0.mb-3.container-fluid
-! ##.p-0.mb-0.container-fluid, .mobile-jsv-bottom.mobile-jsv
-!
-! 域名经常变动，请使用脚本替代：
-! https://greasyfork.org/zh-CN/scripts/468173-91porn-ad-remover
-! 查看最新域名：https://jiuse2.github.io/
+! --九色视频--  `2023.11.18`
+! VIA - Adblock Plus: 域名无子文件和通配符，域名并列无空格。
+jiuse.icu##.mb-0.jsv-g1.jsv
+jiuse.icu###playerJsvLayer
+jiuse.icu###yp-home
+jiuse.icu##.p-0.mb-3.container-fluid
+jiuse.icu##.p-0.mb-0.container-fluid
+jiuse.icu##.mobile-jsv
+jiuse.icu###po-s2
 
 ! --hello av girls--  `2023.3.18`
 ||www.helloavgirls.com/img/banner$image
@@ -212,11 +216,6 @@ www.xvideos.com##.red-ticket, #mobile-slogan, .search-premium-tabs
 ! --pornhub--  `2022.11.9`
 cn.pornhub.com##.adContainer, .topAdContainter, .delay.closeUrl
 
-! --hanime1--  `2022.11.17`
-hanime1.me###mobile-ad, #double-banners-adjust
-hanime1.me##.hidden-lg.hidden-md.hidden-sm > [src]
-hanime1.me###player-div-wrapper > .hidden-lg.hidden-md.hidden-sm > div
-
 ! --eporner--  `2022.11.18`
 www.eporner.com###EPimLayerOuter, #admobiletop, #admobilefoot, #adinhead
 
@@ -229,15 +228,20 @@ javhub.net##.my-2.container
 ! --reddit--  `2023.3.18`
 www.reddit.com##.TopNav__promoButton
 
-! --krx18--  `2023.8.28`
-krx18.com##center:nth-of-type(1)
-krx18.com##.st-has-labels.st-hidden.st-center.st-inline-reaction-buttons.sharethis-inline-reaction-buttons
+! --krx18--  `2023.11.18`
+krx18.com##center
+krx18.com###st-1
 
 ! --missav-- `2023.9.28`
 ! ublock origin 2023 年新特性：支持移除脚本和运行函数
 missav.com,missav123.com,missav789.com##+js(acs, document.createElement, htmlAds)
 missav.com,missav123.com,missav789.com##+js(nowoif)
 missav.com##^script:has-text(htmlAds)
+
+! --hanime1--  `2022.11.17`
+hanime1.me###mobile-ad, #double-banners-adjust
+hanime1.me##.hidden-lg.hidden-md.hidden-sm > [src]
+hanime1.me###player-div-wrapper > .hidden-lg.hidden-md.hidden-sm > div
 
 
 ! --------------------------------------------------------------------------------
@@ -263,7 +267,6 @@ m.baidu.com##.ec_wise_ad, .c-video-container, .c-blocka ec_title
 weibo.cn##.wrap, .ad-wrap
 18comic.vip##.visible-sm.visible-xs.bot-per
 reddit.com##.XPromoPill
-qingse.one###bottom-ads
 
 microsoftedge.microsoft.com###banner
 www.userscript.zone##.top.searcad.col-12
