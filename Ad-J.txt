@@ -121,6 +121,7 @@ mail.google.com###nav
 
 ! --必应--  `2023.11.20`
 bing.com##.b_ad
+bing.com##.b_ads
 bing.com###b_lowerheader
 bing.com##.visible.bottom
 bing.com###bnp_rich_div
