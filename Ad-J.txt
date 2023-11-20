@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Mobile Ads filter J
 ! Version: 1.0.1
-! Last modified: 2023.11.18
+! Last modified: 2023.11.20
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。移动端常用网站。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -119,10 +119,11 @@ www.ys900.com##body > form
 ! --gmail--  `2023.5.7`
 mail.google.com###nav
 
-! --必应--  `2023.11.18`
+! --必应--  `2023.11.20`
 cn.bing.com##.b_ad
 cn.bing.com###b_lowerheader
 cn.bing.com##.visible.bottom
+cn.bing.com###bnp_rich_div
 www.bing.com###bnp_set_dse
 
 ! --pixiv--  `2022.11.8`
