@@ -120,11 +120,11 @@ www.ys900.com##body > form
 mail.google.com###nav
 
 ! --必应--  `2023.11.20`
-cn.bing.com##.b_ad
-cn.bing.com###b_lowerheader
-cn.bing.com##.visible.bottom
-www.bing.com###bnp_rich_div
-www.bing.com###bnp_set_dse
+bing.com##.b_ad
+bing.com###b_lowerheader
+bing.com##.visible.bottom
+bing.com###bnp_rich_div
+bing.com###bnp_set_dse
 
 ! --pixiv--  `2022.11.8`
 www.pixiv.net##._gdpr-notify-header, .description-signup-header
