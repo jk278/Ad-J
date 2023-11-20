@@ -123,7 +123,7 @@ mail.google.com###nav
 cn.bing.com##.b_ad
 cn.bing.com###b_lowerheader
 cn.bing.com##.visible.bottom
-cn.bing.com###bnp_rich_div
+www.bing.com###bnp_rich_div
 www.bing.com###bnp_set_dse
 
 ! --pixiv--  `2022.11.8`
