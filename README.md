@@ -1,4 +1,4 @@
-# Ad-J
+# Ad J
 
 自用去广告规则。常用网站精选。
 
@@ -6,9 +6,9 @@ powered by Adblock Plus and uBlock Origin.
 
 ### 规则订阅地址：
 
-国内镜像1：https://raw.staticdn.net/jk278/Ad-J/main/Ad-J.txt
+国内镜像 1：https://raw.staticdn.net/jk278/Ad-J/main/Ad-J.txt
 
-国内镜像2：https://raw.fastgit.org/jk278/Ad-J/main/Ad-J.txt
+国内镜像 2：https://raw.fastgit.org/jk278/Ad-J/main/Ad-J.txt
 
 ### 其他订阅：
 
