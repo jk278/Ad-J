@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
-! Title: Mobile Ads filter J
-! Version: 1.0.1
-! Last modified: 2023.11.20
+! Title: Ad filter J
+! Version: 1.0.2
+! Last modified: 2023.11.23
 ! powered by uBlock Origin and Adblock Plus
-! 自用去广告规则。移动端常用网站。
+! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
 
 
 ! --------------------------------------------------------------------------------
 ! ------------------------------------网站分类-------------------------------------
 ! --------------------------------------------------------------------------------
-! 常用网站, 新闻资讯, 影视网站, 国外网站, 知识网站, 工具网站, 成人网站, 购物网站
+! 常用网站, 新闻资讯, 影视网站, 国外网站, 查阅网站, 工具网站, 成人网站, 购物网站
 ! 暂未分类
 
 
@@ -20,13 +20,15 @@
 ! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验, csdn, 掘金, 
 !  
 
-! --哔哩哔哩--  `2023.6.9`
+! --哔哩哔哩--  `2023.11.23`
 m.bilibili.com##.m-nav-openapp, .m-float-openapp, .openapp-dialog, [class^="m-video2-awaken-btn"]
 ! 播放器弹窗; 播放器全屏跳转，解决无法全屏的问题
 m.bilibili.com##.home-float-openapp, .open-app
 m.bilibili.com##.mplayer-widescreen-callapp, .mplayer-fullscreen-call-app
 m.bilibili.com##.mplayer-control-btn-quality, .mplayer-control-btn-speed
 www.bilibili.com##.float-btn, .open-btn
+! PC
+www.bilibili.com##div.is-rcmd.bili-video-card:has(.bili-video-card__info--ad)
 
 ! --知乎--  `2022.11.4`
 ! www.zhihu.com, zhuanlan.zhihu.com
@@ -140,9 +142,9 @@ www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
 
 
 ! --------------------------------------------------------------------------------
-! ------------------------------------知识网站-------------------------------------
+! ------------------------------------查阅网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! mba智库, 汉典, 古诗文网, 和图书
+! mba智库, 汉典, 古诗文网, 和图书, 全本小说*, 
 
 ! --mba智库--  `2022.11.17`
 wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
@@ -154,8 +156,12 @@ www.zdic.net##.topslot_container
 m.gushiwen.cn##[href="javascript:goAbpNojump()"]
 m.gushiwen.cn##div.sons:has(#aAndroid)
 
-! --和图书--  `2023.11.18`
+! --和图书--  `2023.11.23`
 m.hetushu.com##p.m1
+! PC
+www.hetushu.com##.code
+
+! --全本小说--  无广告  quanben-xiaoshuo.com
 
 
 ! --------------------------------------------------------------------------------
