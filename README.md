@@ -19,4 +19,4 @@ AdGuard Mobile Ads filter: https://filters.adtidy.org/extension/ublock/filters/1
 AdGuard Chinese filter: https://filters.adtidy.org/extension/ublock/filters/224.txt
 
 ### 少即是多
-对于部分热门网站，此规则只作为主要规则的补充.
+对于部分热门网站，此规则只作为主要规则的补充。
