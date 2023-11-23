@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Ad filter J
+! Title: Ad Filter J
 ! Version: 1.0.2
 ! Last modified: 2023.11.23
 ! powered by uBlock Origin and Adblock Plus
