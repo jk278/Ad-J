@@ -20,6 +20,7 @@
 ! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验, csdn, 掘金, 
 !  
 
+
 ! --哔哩哔哩--  `2023.11.23`
 m.bilibili.com##.m-nav-openapp, .m-float-openapp, .openapp-dialog, [class^="m-video2-awaken-btn"]
 ! 播放器弹窗; 播放器全屏跳转，解决无法全屏的问题
@@ -77,6 +78,7 @@ juejin.cn##.app-open-button
 ! --------------------------------------------------------------------------------
 ! 网易新闻, 搜狐新闻, 腾讯新闻, 360极速浏览器全网热搜, 
 
+
 ! --网易新闻--  `2022.11.17`
 3g.163.com##.area-card, .js-open-app, .js-area
 3g.163.com##.widget-floatMenu, footer > span
@@ -103,6 +105,7 @@ h5.mse.360.cn##.top
 ! --------------------------------------------------------------------------------
 ! 土拨鼠电影, libvio, 番薯影视, 
 
+
 ! --土拨鼠电影--  `2022.11.9`
 www.tbsdy.com##.download_app
 
@@ -117,6 +120,7 @@ www.ys900.com##body > form
 ! ------------------------------------国外网站-------------------------------------
 ! --------------------------------------------------------------------------------
 ! gmail, 必应, pixiv, vilipix (pixiv镜像), pinterest, 
+
 
 ! --gmail--  `2023.5.7`
 mail.google.com###nav
@@ -146,6 +150,7 @@ www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
 ! --------------------------------------------------------------------------------
 ! mba智库, 汉典, 古诗文网, 和图书, 全本小说*, 
 
+
 ! --mba智库--  `2022.11.17`
 wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
 
@@ -169,6 +174,7 @@ www.hetushu.com###left > :not(.quit)
 ! --------------------------------------------------------------------------------
 ! apkcombo, apkdone, speedtest (测速), 423down, 
 ! 高德地图, QQ邮箱, 
+
 
 ! --apkcombo--  `2022.11.19`
 apkcombo.com##.ax-revamp, .diseanmevrtt, .is-narrow.is-nav.column
@@ -198,6 +204,7 @@ wap.mail.qq.com##.download_container
 ! 警告：查看本分组前，请确认您已成年，我们不保证其内容的正确性，也不支持未成年人浏览类似网站
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, eporner, avgle, javhub
 ! reddit, krx18, missav, hanime1
+
 
 ! --九色视频--  `2023.11.18`
 ! VIA - Adblock Plus: 域名无子文件和通配符，域名并列无空格。
@@ -257,6 +264,7 @@ hanime1.me###player-div-wrapper > .hidden-lg.hidden-md.hidden-sm > div
 ! --------------------------------------------------------------------------------
 ! 淘宝, 拼多多, 
 
+
 ! --淘宝--  `2022.11.9`
 main.m.taobao.com##button
 main.m.taobao.com###SLK_evokeUi_v2_wrap
@@ -271,6 +279,7 @@ panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
 ! --------------------------------------------------------------------------------
 ! 
 
+
 m.baidu.com##.ec_wise_ad, .c-video-container, .c-blocka ec_title
 weibo.cn##.wrap, .ad-wrap
 18comic.vip##.visible-sm.visible-xs.bot-per
@@ -284,6 +293,7 @@ www.userscript.zone##.top.searcad.col-12
 
 ! ----1. jpmn5.cc 极品性感美女------------
 ! -------------------------------------
+
 ||c.j0rd.vip^
 ||ak-d.tripcdn.com^
 ||ali.static.yximgs.com^
@@ -291,6 +301,7 @@ www.userscript.zone##.top.searcad.col-12
 
 ! ----2. 九色视频----------
 ! 双管道表示域名开始匹配，不加前面任何位置。
+
 aaa.com^
 ||jstatic.xyz^
 ||kvhdd.com^
@@ -302,10 +313,12 @@ aaa.com^
 ||uu6318uu.com^
 
 ! ----3. 百度广告域名------------------
+
 ! 误杀：https://byokpg.smartapps.cn
 ! ||bcebos.com^ 
 
 ! ----4. javhub 等 av 网站------------------
+
 ||img.gsspat.jp^
 ||b-hls-16.doppiocdn.com^
 ||go.xlviirdr.com^
