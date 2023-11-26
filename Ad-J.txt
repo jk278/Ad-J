@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.0.2
-! Last modified: 2023.11.23
+! Last modified: 2023.11.26
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -156,10 +156,10 @@ www.zdic.net##.topslot_container
 m.gushiwen.cn##[href="javascript:goAbpNojump()"]
 m.gushiwen.cn##div.sons:has(#aAndroid)
 
-! --和图书--  `2023.11.23`
+! --和图书--  `2023.11.26`
 m.hetushu.com##p.m1
 ! PC
-www.hetushu.com##.code
+www.hetushu.com###left > :not(.quit)
 
 ! --全本小说--  无广告  quanben-xiaoshuo.com
 
