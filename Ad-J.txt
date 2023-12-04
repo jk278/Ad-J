@@ -168,7 +168,7 @@ www.hetushu.com###left > :not(.quit)
 
 ! --全本小说--  `2023.12.4`
 quanben-xiaoshuo.com##.wrapper:style(padding:0 !important)
-quanben-xiaoshuo.com##.box:style(border:0 !;padding:10px !important)
+quanben-xiaoshuo.com##.box:style(border:0 !important;padding:10px !important)
 
 
 ! --------------------------------------------------------------------------------
