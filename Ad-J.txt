@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
-! Version: 1.0.3
+! Version: 1.0.4
 ! Last modified: 2023.12.4
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
