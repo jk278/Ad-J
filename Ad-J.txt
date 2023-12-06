@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.0.3
-! Last modified: 2023.12.6
+! Last modified: 2023.12.7
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -148,7 +148,7 @@ www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
 ! --------------------------------------------------------------------------------
 ! ------------------------------------查阅网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! mba智库, 汉典, 古诗文网, 和图书, 全本小说, 
+! mba智库, 汉典, 古诗文网, 和图书, 全本小说, pocket, 
 
 
 ! --mba智库--  `2022.11.17`
@@ -173,6 +173,9 @@ quanben-xiaoshuo.com##.wrapper:style(max-width:800px !important)
 quanben-xiaoshuo.com##.articlebody:style(font-size:18px !important)
 quanben-xiaoshuo.com##.articlebody:style(letter-spacing:2.2px;line-height:normal)
 quanben-xiaoshuo.com##.articlebody:style(text-align:justify)
+
+! --pocket--  `2023.12.7`
+getpocket.com###global-nav\.upgrade-link
 
 
 ! --------------------------------------------------------------------------------
