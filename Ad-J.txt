@@ -176,6 +176,7 @@ quanben-xiaoshuo.com##.articlebody:style(text-align:justify)
 
 ! --pocket--  `2023.12.7`
 getpocket.com###global-nav\.upgrade-link
+getpocket.com##.align-left.css-ormwek
 
 
 ! --------------------------------------------------------------------------------
