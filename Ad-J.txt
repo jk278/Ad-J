@@ -171,6 +171,7 @@ quanben-xiaoshuo.com##.wrapper:style(padding:0 !important)
 quanben-xiaoshuo.com##.box:style(border:0 !important;padding:18px !important)
 quanben-xiaoshuo.com##.wrapper:style(max-width:800px !important)
 quanben-xiaoshuo.com##.articlebody:style(font-size:18px !important)
+quanben-xiaoshuo.com##.articlebody:style(letter-spacing:2.2px;line-height:normal)
 
 
 ! --------------------------------------------------------------------------------
