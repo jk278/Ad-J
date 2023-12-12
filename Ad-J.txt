@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.0.3
-! Last modified: 2023.12.7
+! Last modified: 2023.12.12
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -63,10 +63,11 @@ baijiahao.baidu.com##._3cAIWshMtS86T-V_NTTzch, .followSuper
 ! --百度经验--  `2022.11.4`
 jingyan.baidu.com###wgt-ad-guess > .ad-card, .feed-ad-wrap
 
-! --csdn--  `2022.11.19`
-! blog.csdn.net, www.csdn.net
+! --csdn--  `2022.12.12`
 blog.csdn.net##.weixin-shadowbox, .comment-sofa-flag
 blog.csdn.net##.btn_open_app_prompt_div, .add-firstAd, #comment
+blog.csdn.net##.passport-login-container
+blog.csdn.net##.feed-Sign-weixin
 csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
 
 ! --掘金-- `2023.5.14`
@@ -148,7 +149,7 @@ www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
 ! --------------------------------------------------------------------------------
 ! ------------------------------------查阅网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! mba智库, 汉典, 古诗文网, 和图书, 全本小说, pocket, 
+! mba智库, 汉典, 古诗文网, pocket, 
 
 
 ! --mba智库--  `2022.11.17`
@@ -160,19 +161,6 @@ www.zdic.net##.topslot_container
 ! --古诗文网--  `2023-9-16`
 m.gushiwen.cn##[href="javascript:goAbpNojump()"]
 m.gushiwen.cn##div.sons:has(#aAndroid)
-
-! --和图书--  `2023.11.26`
-m.hetushu.com##p.m1
-! PC
-www.hetushu.com###left > :not(.quit)
-
-! --全本小说--  `2023.12.6`
-quanben-xiaoshuo.com##.wrapper:style(padding:0 !important)
-quanben-xiaoshuo.com##.box:style(border:0 !important;padding:18px !important)
-quanben-xiaoshuo.com##.wrapper:style(max-width:800px !important)
-quanben-xiaoshuo.com##.articlebody:style(font-size:18px !important)
-quanben-xiaoshuo.com##.articlebody:style(letter-spacing:2.2px;line-height:normal)
-quanben-xiaoshuo.com##.articlebody:style(text-align:justify)
 
 ! --pocket--  `2023.12.7`
 getpocket.com###global-nav\.upgrade-link
