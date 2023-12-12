@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.0.3
-! Last modified: 2023.12.12
+! Last modified: 2023.12.13
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -17,7 +17,7 @@
 ! --------------------------------------------------------------------------------
 ! ------------------------------------常用网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验, csdn, 掘金, 
+! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验, 百度贴吧, csdn, 掘金, 
 !  
 
 
@@ -62,6 +62,9 @@ baijiahao.baidu.com##._3cAIWshMtS86T-V_NTTzch, .followSuper
 
 ! --百度经验--  `2022.11.4`
 jingyan.baidu.com###wgt-ad-guess > .ad-card, .feed-ad-wrap
+
+! --百度贴吧--  `2023-12-13`
+tieba.baidu.com##.tieba-custom-pass-login
 
 ! --csdn--  `2022.12.12`
 blog.csdn.net##.weixin-shadowbox, .comment-sofa-flag
@@ -155,7 +158,7 @@ www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
 ! --mba智库--  `2022.11.17`
 wiki.mbalib.com##.app-ad, #down-app-pop, #box-app-tip, .ke-lay, .download_app
 
-!  --汉典--  `2023-03-14`
+! --汉典--  `2023-03-14`
 www.zdic.net##.topslot_container
 
 ! --古诗文网--  `2023-9-16`
