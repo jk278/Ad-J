@@ -1,6 +1,6 @@
 # Ad-J
 
-自用去广告规则。常用网站精选。
+自用移动端去广告规则。常用网站精选。
 
 powered by Adblock Plus and uBlock Origin.
 
