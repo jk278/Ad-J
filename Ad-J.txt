@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.0.3
-! Last modified: 2023.12.13
+! Last modified: 2023.12.14
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -270,9 +270,10 @@ hanime1.me###player-div-wrapper > .hidden-lg.hidden-md.hidden-sm > div
 main.m.taobao.com##button
 main.m.taobao.com###SLK_evokeUi_v2_wrap
 
-! --拼多多--  `2022.11.9`
-panduoduo.yangkeduo.com##.pdd-go-to-app, #devtoolTag, #recommend-head
-panduoduo.yangkeduo.com###recommend-wrapper, .goods-list-container
+! --拼多多--  `2023.12.14`
+mobile.yangkeduo.com##.pdd-go-to-app
+mobile.yangkeduo.com##div.footer-item:nth-of-type(2)
+mobile.yangkeduo.com##.quick-entrance-3 .pdd-lazy-image
 
 
 ! --------------------------------------------------------------------------------
