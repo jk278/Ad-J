@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.0.4
-! Last modified: 2023.12.15
+! Last modified: 2023.12.16
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -31,13 +31,13 @@ www.bilibili.com##.float-btn, .open-btn
 ! PC
 www.bilibili.com##div.is-rcmd.bili-video-card:has(.bili-video-card__info--ad)
 
-! --知乎--  `2023.12.15`
+! --知乎--  `2023.12.16`
 ! www.zhihu.com, zhuanlan.zhihu.com
 www.zhihu.com##.AdBelowMoreAnswers, .MHotFeedAd, .MBannerAd
 www.zhihu.com##.OpenGuide-wrapper
 www.zhihu.com##.RelatedReadings, .HotQuestions
-www.zhihu.com##.MobileAppHeader-actions>button
-www.zhihu.com##.MobileAppHeader-searchBoxWithUnlogin:style(width: calc(100vw - 161px)!important)
+zhihu.com##.MobileAppHeader-actions>button
+zhihu.com##.MobileAppHeader-searchBoxWithUnlogin:style(width: calc(100vw - 161px)!important)
 zhihu.com##.is-higher.OpenInAppButton, .KfeCollection-VipRecommendCard
 
 ! --简书--  `2022.11.4`
