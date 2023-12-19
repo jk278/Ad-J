@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.0.4
-! Last modified: 2023.12.16
+! Last modified: 2023.12.19
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -17,7 +17,7 @@
 ! --------------------------------------------------------------------------------
 ! ------------------------------------常用网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验, 百度贴吧, csdn, 掘金, 今日热榜
+! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验, 百度贴吧, csdn, 掘金
 !  
 
 
@@ -37,7 +37,7 @@ www.zhihu.com##.AdBelowMoreAnswers, .MHotFeedAd, .MBannerAd
 www.zhihu.com##.OpenGuide-wrapper
 www.zhihu.com##.RelatedReadings, .HotQuestions
 zhihu.com##.MobileAppHeader-actions>button
-zhihu.com##.MobileAppHeader-searchBoxWithUnlogin:style(width: calc(100vw - 161px)!important)
+zhihu.com##.Input-wrapper:style(width: calc(100vw - 161px)!important)
 zhihu.com##.is-higher.OpenInAppButton, .KfeCollection-VipRecommendCard
 
 ! --简书--  `2022.11.4`
@@ -81,15 +81,46 @@ csdn.net##.feed-Sign-span, .openApp, .m_toolbar_left_app_btn
 ! --掘金--  `2023.5.14`
 juejin.cn##.app-open-button
 
-! --今日热榜  `2023.12.16`
-rebang.today##.arco-btn-primary
-
 
 ! --------------------------------------------------------------------------------
 ! ------------------------------------新闻资讯-------------------------------------
 ! --------------------------------------------------------------------------------
-! 网易新闻, 搜狐新闻, 腾讯新闻, 360极速浏览器全网热搜, 
+! 今日热榜, 36氪, IT之家, 游民星空, 虎扑, 雪球, 
+! 澎湃新闻, 网易新闻, 搜狐新闻, 腾讯新闻, 
+! 洛杉矶时报, 
 
+
+! --今日热榜  `2023.12.16`
+rebang.today##.arco-btn-primary
+
+! --36氪--  `2023.12.19`
+www.36kr.com##.article-top-swiper-goapp
+www.36kr.com##.float-app-button-wrp
+www.36kr.com##.app-track-banner-outer
+
+! --IT之家--  `2023.12.19`
+m.ithome.com##.hot-app
+m.ithome.com##.open-app
+m.ithome.com##.brand-column-lapin
+
+! --游民星空--  `2023.12.19`
+wap.gamersky.com##.ymw-header2021
+wap.gamersky.com##.gsTgWapConBdshareTopBox
+wap.gamersky.com##.ymw-rel-list
+wap.gamersky.com##.ymw-rel-mgame
+wap.gamersky.com##.gsTgAppConCommentBtn
+wap.gamersky.com##.ymw-footer
+
+! --虎扑--  `2023.12.19`
+m.hupu.com##.tabs-component-search-app
+
+! --雪球--  `2023.12.19`
+xueqiu.com##.index_custom-assistant_3SU
+xueqiu.com###swiper
+xueqiu.com##.index_status__baidu__img_1KK
+
+! --澎湃新闻--  `2023.12.19`
+m.thepaper.cn###moblink_header
 
 ! --网易新闻--  `2022.11.17`
 3g.163.com##.area-card, .js-open-app, .js-area
@@ -107,9 +138,8 @@ view.inews.qq.com##[class^="slider-top-bar_sliderWrapper"]
 view.inews.qq.com##[class^="normal_buttonWrap"]
 view.inews.qq.com##[class^="new-hot-comment_subText"]
 
-! --360极速浏览器全网热搜--  `2023.9.28`
-h5.mse.360.cn##.top
-||p5.ssl.qhimg.com^
+! --洛杉矶时报-- `2013.12.19`
+www.latimes.com##.google-dfp-ad-wrapper
 
 
 ! --------------------------------------------------------------------------------
