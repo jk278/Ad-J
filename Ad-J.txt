@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
-! Version: 1.0.4
-! Last modified: 2023.12.19
+! Version: 1.0.5
+! Last modified: 2023.12.20
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -85,9 +85,9 @@ juejin.cn##.app-open-button
 ! --------------------------------------------------------------------------------
 ! ------------------------------------新闻资讯-------------------------------------
 ! --------------------------------------------------------------------------------
-! 今日热榜, 36氪, IT之家, 游民星空, 虎扑, 雪球, 
+! 今日热榜, 36氪, IT之家, 游民星空, 虎扑, 观风闻, 雪球, 
 ! 澎湃新闻, 网易新闻, 搜狐新闻, 腾讯新闻, 
-! 洛杉矶时报, 
+! 洛杉矶时报, pocket, 
 
 
 ! --今日热榜  `2023.12.16`
@@ -98,10 +98,11 @@ www.36kr.com##.article-top-swiper-goapp
 www.36kr.com##.float-app-button-wrp
 www.36kr.com##.app-track-banner-outer
 
-! --IT之家--  `2023.12.19`
+! --IT之家--  `2023.12.20`
 m.ithome.com##.hot-app
 m.ithome.com##.open-app
 m.ithome.com##.brand-column-lapin
+m.ithome.com##.placeholder:has(.tip-gray)
 
 ! --游民星空--  `2023.12.19`
 wap.gamersky.com##.ymw-header2021
@@ -113,6 +114,9 @@ wap.gamersky.com##.ymw-footer
 
 ! --虎扑--  `2023.12.19`
 m.hupu.com##.tabs-component-search-app
+
+! --观风闻  `2023.12.20`
+user.guancha.cn##.g_swiper_container
 
 ! --雪球--  `2023.12.19`
 xueqiu.com##.index_custom-assistant_3SU
@@ -138,8 +142,11 @@ view.inews.qq.com##[class^="slider-top-bar_sliderWrapper"]
 view.inews.qq.com##[class^="normal_buttonWrap"]
 view.inews.qq.com##[class^="new-hot-comment_subText"]
 
-! --洛杉矶时报-- `2013.12.19`
+! --洛杉矶时报--  `2023.12.19`
 www.latimes.com##.google-dfp-ad-wrapper
+
+! --pocket--  `2023.12.20`
+getpocket.com###pocket-logo-nav:style(margin-left:3px !important)
 
 
 ! --------------------------------------------------------------------------------
@@ -161,7 +168,7 @@ www.ys900.com##body > form
 ! --------------------------------------------------------------------------------
 ! ------------------------------------国外网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! gmail, 必应, pixiv, vilipix (pixiv镜像), pinterest, 
+! gmail, 必应, pixiv, vilipix (pixiv镜像), pinterest, reddit, 
 
 
 ! --gmail--  `2023.5.7`
@@ -185,6 +192,10 @@ m.vilipix.com##.top-actions, .user-details-follow
 
 ! --pinterest-- `2023.6.8`
 www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
+
+! --reddit--  `2023.3.18`
+reddit.com##.XPromoPill
+www.reddit.com##.TopNav__promoButton
 
 
 ! --------------------------------------------------------------------------------
@@ -242,7 +253,7 @@ wap.mail.qq.com##.download_container
 ! --------------------------------------------------------------------------------
 ! 警告：查看本分组前，请确认您已成年，我们不保证其内容的正确性，也不支持未成年人浏览类似网站
 ! 九色视频, hello av girls, xnxx, xvideos, pornhub, eporner, avgle, javhub
-! reddit, krx18, missav, hanime1
+! krx18, missav, hanime1
 
 
 ! --九色视频--  `2023.11.18`
@@ -278,9 +289,6 @@ avgle.com###exo-native, .col-md-3 > [src], .footer-banner
 
 ! --javhub--  `2022.12.15`
 javhub.net##.my-2.container
-
-! --reddit--  `2023.3.18`
-www.reddit.com##.TopNav__promoButton
 
 ! --krx18--  `2023.11.18`
 krx18.com##center
@@ -323,7 +331,7 @@ mobile.yangkeduo.com##.quick-entrance-3 .pdd-lazy-image
 m.baidu.com##.ec_wise_ad, .c-video-container, .c-blocka ec_title
 weibo.cn##.wrap, .ad-wrap
 18comic.vip##.visible-sm.visible-xs.bot-per
-reddit.com##.XPromoPill
+m.huxiu.com##.bottom-open-app-btn
 
 microsoftedge.microsoft.com###banner
 www.userscript.zone##.top.searcad.col-12
