@@ -134,10 +134,10 @@ m.huya.com##.show_more
 
 
 ! --堆糖--  `2024.1.1`
-m.duitang.com###top-swiper-box
-m.duitang.com###__next>.am-flexbox-align-center:nth-of-type(1)
-m.duitang.com###__next:style(margin-top:-52px !important)
-m.duitang.com###__next>.am-flexbox-align-center:nth-of-type(3):style(margin-top:-52px !important)
+m.duitang.com###top-swiper-box, #bottomBrowBtn2
+m.duitang.com###__next>.am-flexbox-align-center:has(#topBtn1)
+m.duitang.com###__next:style(margin-top:-44px !important)
+m.duitang.com###__next>.am-flexbox-align-center:contains(首页):style(margin-top:-44px !important)
 
 ! --pixiv--  `2022.11.8`
 www.pixiv.net##._gdpr-notify-header, .description-signup-header
