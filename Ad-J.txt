@@ -128,13 +128,13 @@ m.huya.com##.show_more
 
 
 ! --------------------------------------------------------------------------------
-! ------------------------------------影视网站-------------------------------------
+! ------------------------------------图片网站-------------------------------------
 ! --------------------------------------------------------------------------------
 ! 堆糖, pixiv, vilipix (pixiv镜像), pinterest, 
 
 
 ! --堆糖--  `2024.1.1`
-m.duitang.com###top-swiper-box, #bottomBrowBtn2
+m.duitang.com###top-swiper-box, #bottomBrowBtn2, #openAppInBlog
 m.duitang.com###__next>.am-flexbox-align-center:has(#topBtn1)
 m.duitang.com###__next:style(margin-top:-44px !important)
 m.duitang.com###__next>.am-flexbox-align-center:contains(首页):style(margin-top:-44px !important)
