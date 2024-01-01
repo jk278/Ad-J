@@ -200,8 +200,8 @@ m.thepaper.cn##[class^=index_footer_banner]
 3g.163.com##.main > div > div, .swiper-container-android, .s-openApp
 m.163.com##.js-open-app, .js-recommend-vip, .backflow-floating, .js-recommend.recommend
 
-! --搜狐新闻--  `2022.11.20`
-m.sohu.com###middleText, #middleBanner, #bottomBanner, .common-ad
+! --搜狐新闻--  `2024.1.1`
+m.sohu.com###middleText, #middleBanner, #bottomBanner, .common-ad, #CallAppContainer
 m.sohu.com##.info-banner-wrapper, .top-bill-wrapper, .middle-insert-ad
 m.sohu.com##.center-header, body > div > [src], .feed-list-scoped > div
 m.sohu.com##.f:has(span.ad-tag), .feed-item-scoped:has(span.tag)
