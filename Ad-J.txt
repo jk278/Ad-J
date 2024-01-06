@@ -318,15 +318,8 @@ missav.com,missav123.com,missav789.com##+js(nowoif)
 missav.com##^script:has-text(htmlAds)
 
 ! --hanime1--  `2024.1.7`
-hanime1.me###mobile-ad, .related-video-width.hidden-lg.hidden-md
-hanime1.me###home-rows-wrapper > div > .hidden-lg.hidden-md
-hanime1.me###home-rows-wrapper > div.hidden-lg.hidden-md.hidden-sm
-! PC
-hanime1.me###home-rows-wrapper > div.hidden-xs
-! 影响布局的侵入式广告
-hanime1.me###player-div-wrapper > div.hidden-lg.hidden-md.hidden-sm
-hanime1.me###double-banners-adjust
-! 移除侵入式广告后的元素修正
+hanime1.me###mobile-ad, iframe
+! 移除广告后的元素修正
 hanime1.me###tablinks-wrapper:style(margin-top:5px !important)
 hanime1.me###watch-footer:style(margin-top:0 !important)
 ! 展开集数列表
