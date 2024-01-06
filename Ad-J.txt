@@ -318,7 +318,7 @@ missav.com,missav123.com,missav789.com##+js(nowoif)
 missav.com##^script:has-text(htmlAds)
 
 ! --hanime1--  `2024.1.7`
-hanime1.me###mobile-ad, iframe
+hanime1.me##iframe, #mobile-ad, .comics-banner-ads
 ! 移除广告后的元素修正
 hanime1.me###tablinks-wrapper:style(margin-top:5px !important)
 hanime1.me###watch-footer:style(margin-top:0 !important)
