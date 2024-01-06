@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
-! Version: 1.1.0
-! Last modified: 2024.1.1
+! Version: 1.1.1
+! Last modified: 2024.1.7
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/edit/main/Ad-J.txt
@@ -317,10 +317,13 @@ missav.com,missav123.com,missav789.com##+js(acs, document.createElement, htmlAds
 missav.com,missav123.com,missav789.com##+js(nowoif)
 missav.com##^script:has-text(htmlAds)
 
-! --hanime1--  `2022.11.17`
-hanime1.me###mobile-ad, #double-banners-adjust
-hanime1.me##.hidden-lg.hidden-md.hidden-sm > [src]
-hanime1.me###player-div-wrapper > .hidden-lg.hidden-md.hidden-sm > div
+! --hanime1--  `2024.1.7`
+hanime1.me###mobile-ad
+hanime1.me###player-div-wrapper > div.hidden-lg.hidden-md.hidden-sm
+hanime1.me###double-banners-adjust
+hanime1.me###tablinks-wrapper:style(margin-top:5px !important)
+hanime1.me###watch-footer:style(margin-top:0 !important)
+hanime1.me###playlist-scroll:style(max-height:none !important)
 
 
 ! --------------------------------------------------------------------------------
