@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
-! Version: 1.1.1(1)
+! Version: 1.1.1(2)
 ! Last modified: 2024.1.7
 ! powered by uBlock Origin and Adblock Plus
 ! 自用去广告规则。常用网站精选。
@@ -322,6 +322,7 @@ hanime1.me##iframe, #mobile-ad, .comics-banner-ads
 ! 移除广告后的元素修正
 hanime1.me###tablinks-wrapper:style(margin-top:5px !important)
 hanime1.me###watch-footer:style(margin-top:0 !important)
+hanime1.me##.mobile-search-pagination:style(margin-top:50px !important)
 ! 展开集数列表
 hanime1.me###playlist-scroll:style(max-height:none !important)
 
