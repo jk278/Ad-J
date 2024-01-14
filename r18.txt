@@ -1,0 +1,61 @@
+
+! --------------------------------------------------------------------------------
+! ------------------------------------成人网站-------------------------------------
+! --------------------------------------------------------------------------------
+! 警告：查看本分组前，请确认您已成年，我们不保证其内容的正确性，也不支持未成年人浏览类似网站
+! 九色视频, hello av girls, xnxx, xvideos, pornhub, eporner, avgle, javhub
+! krx18, missav, hanime1
+
+
+! --九色视频--  `2023.11.18`
+! VIA - Adblock Plus: 域名无子文件和通配符，域名并列无空格。
+jiuse.icu##.mb-0.jsv-g1.jsv
+jiuse.icu###playerJsvLayer
+jiuse.icu###yp-home
+jiuse.icu##.p-0.mb-3.container-fluid
+jiuse.icu##.p-0.mb-0.container-fluid
+jiuse.icu##.mobile-jsv
+jiuse.icu###po-s2
+
+! --hello av girls--  `2023.3.18`
+||www.helloavgirls.com/img/banner$image
+www.helloavgirls.com##.box-shadow
+
+! --xnxx--  `2022.11.21`
+www.xnxx.com##.ad-support-mobile, .premium-results-line, .remove-ads
+www.xnxx.com##.gold-plate, #x-home-messages, .thumb-ad
+
+! --xvideos--  `2022.11.17`
+www.xvideos.com##.ad-support-mobile, .remove-ads, .thumb-ad, .video-ad, .live-cams
+www.xvideos.com##.red-ticket, #mobile-slogan, .search-premium-tabs
+
+! --pornhub--  `2022.11.9`
+cn.pornhub.com##.adContainer, .topAdContainter, .delay.closeUrl
+
+! --eporner--  `2022.11.18`
+www.eporner.com###EPimLayerOuter, #admobiletop, #admobilefoot, #adinhead
+
+! --avgle--  `2022.11.18`
+avgle.com###exo-native, .col-md-3 > [src], .footer-banner
+
+! --javhub--  `2022.12.15`
+javhub.net##.my-2.container
+
+! --krx18--  `2023.11.18`
+krx18.com##center
+krx18.com###st-1
+
+! --missav-- `2023.9.28`
+! ublock origin 2023 年新特性：支持移除脚本和运行函数
+missav.com,missav123.com,missav789.com##+js(acs, document.createElement, htmlAds)
+missav.com,missav123.com,missav789.com##+js(nowoif)
+missav.com##^script:has-text(htmlAds)
+
+! --hanime1--  `2024.1.7`
+hanime1.me##iframe, #mobile-ad, .comics-banner-ads
+! 移除广告后的元素修正
+hanime1.me###tablinks-wrapper:style(margin-top:5px !important)
+hanime1.me###watch-footer:style(margin-top:0 !important)
+hanime1.me##.mobile-search-pagination:style(margin-top:50px !important)
+! 展开集数列表
+hanime1.me###playlist-scroll:style(max-height:none !important)
