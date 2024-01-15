@@ -14,7 +14,7 @@ https://raw.fastgit.org/jk278/Ad-J/main/Ad-J.txt
 
 ### 其他订阅：
 
-uBlock filters – Ads:<br>
+**uBlock filters – Ads**:<br>
 https://ublockorigin.github.io/uAssetsCDN/filters/filters.min.txt
 
 EasyList:<br>
