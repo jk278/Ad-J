@@ -294,7 +294,6 @@ mobile.yangkeduo.com##.quick-entrance-3 .pdd-lazy-image
 
 m.baidu.com##.ec_wise_ad, .c-video-container, .c-blocka ec_title
 weibo.cn##.wrap, .ad-wrap
-18comic.vip##.visible-sm.visible-xs.bot-per
 m.huxiu.com##.bottom-open-app-btn
 
 microsoftedge.microsoft.com###banner
