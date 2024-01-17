@@ -17,10 +17,10 @@ https://raw.fastgit.org/jk278/Ad-J/main/Ad-J.txt
 **uBlock filters – Ads**:<br>
 https://ublockorigin.github.io/uAssetsCDN/filters/filters.min.txt
 
----
-
 EasyList:<br>
 https://easylist.to/easylist/easylist.txt
+
+---
 
 AdGuard Base filter:<br>
 https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
