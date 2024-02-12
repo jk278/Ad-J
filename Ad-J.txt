@@ -299,3 +299,12 @@ m.huxiu.com##.bottom-open-app-btn
 microsoftedge.microsoft.com###banner
 www.userscript.zone##.top.searcad.col-12
 
+! 2024-01-20 https://news.heytapdownload.com
+news.heytapdownload.com##.news-wrapper
+
+! 2024-01-22 https://baike.baidu.com
+baike.baidu.com##.J-yitiao-content
+
+! 2024-02-04 https://m.weathercn.com
+m.weathercn.com##.news-wrapper
+
