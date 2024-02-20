@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
-! Version: 1.2.1
-! Last modified: 2024.1.16
+! Version: 1.2.2
+! Last modified: 2024.2.20
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/blob/main/Ad-J.txt
 
@@ -16,7 +16,7 @@
 ! --------------------------------------------------------------------------------
 ! ------------------------------------常用网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! 哔哩哔哩, 知乎, 简书, 百度知道, 百家号, 百度经验, 百度贴吧, csdn, 掘金
+! 哔哩哔哩, 知乎, 简书, 百度, 百度知道, 百家号, 百度经验, 百度贴吧, 百度百科, csdn, 掘金
 !  
 
 
@@ -51,6 +51,9 @@ www.jianshu.com##.social-wrap > .reply-btn
 ! 要查看当前文章点赞数，不用这条↓↓
 www.jianshu.com##.note-graceful-button 
 
+! --百度--  `2022.2.20`
+m.baidu.com##.ec_wise_ad, .c-video-container, .c-blocka ec_title
+
 ! --百度知道--  `2022.11.4`
 zhidao.baidu.com###knowledge-answer-list, #feed-recommend, .feed-recommend-title
 zhidao.baidu.com##.reply-item:has(>div[data-ispaychat="1"])
@@ -66,8 +69,11 @@ baijiahao.baidu.com##.invokeAppBtnWrapper, .openImg, #headDeflectorContainer
 ! --百度经验--  `2022.11.4`
 jingyan.baidu.com###wgt-ad-guess > .ad-card, .feed-ad-wrap
 
-! --百度贴吧--  `2023-12-13`
+! --百度贴吧--  `2023.12.13`
 tieba.baidu.com##.tieba-custom-pass-login
+
+! --百度百科--  `2024.01.22`
+baike.baidu.com##.J-yitiao-content
 
 ! --csdn--  `2023.12.15`
 blog.csdn.net##.weixin-shadowbox, .comment-sofa-flag
@@ -226,8 +232,11 @@ getpocket.com###pocket-logo-nav:style(margin-left:3px !important)
 ! --------------------------------------------------------------------------------
 ! ------------------------------------国外网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! gmail, 必应, reddit, 
+! youtube, gmail, 必应, reddit, 
 
+
+! --youtube--  `2024.2.20`
+www.youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
 
 ! --gmail--  `2023.5.7`
 mail.google.com###nav
@@ -292,19 +301,13 @@ mobile.yangkeduo.com##.quick-entrance-3 .pdd-lazy-image
 ! 
 
 
-m.baidu.com##.ec_wise_ad, .c-video-container, .c-blocka ec_title
 weibo.cn##.wrap, .ad-wrap
 m.huxiu.com##.bottom-open-app-btn
 
 microsoftedge.microsoft.com###banner
 www.userscript.zone##.top.searcad.col-12
 
-! 2024-01-20 https://news.heytapdownload.com
+! --oppo天气--  `2024.2.4`
 news.heytapdownload.com##.news-wrapper
-
-! 2024-01-22 https://baike.baidu.com
-baike.baidu.com##.J-yitiao-content
-
-! 2024-02-04 https://m.weathercn.com
 m.weathercn.com##.news-wrapper
 
