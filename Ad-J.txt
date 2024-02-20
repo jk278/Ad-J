@@ -237,6 +237,7 @@ getpocket.com###pocket-logo-nav:style(margin-left:3px !important)
 
 ! --youtube--  `2024.2.20`
 www.youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
+www.youtube.com##ytd-ad-slot-renderer
 
 ! --gmail--  `2023.5.7`
 mail.google.com###nav
