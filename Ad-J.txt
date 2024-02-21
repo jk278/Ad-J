@@ -28,7 +28,7 @@ m.bilibili.com##.mplayer-widescreen-callapp, .mplayer-fullscreen-call-app
 m.bilibili.com##.mplayer-control-btn-quality, .mplayer-control-btn-speed
 www.bilibili.com##.float-btn, .open-btn
 ! PC
-www.bilibili.com##div.is-rcmd.bili-video-card:has(.bili-video-card__info--ad)
+www.bilibili.com##.feed-card:has(.bili-video-card__info--ad)
 
 ! --知乎--  `2023.12.16`
 ! www.zhihu.com, zhuanlan.zhihu.com
