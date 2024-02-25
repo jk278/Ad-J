@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.2.3
-! Last modified: 2024.2.21
+! Last modified: 2024.2.22
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/blob/main/Ad-J.txt
 
@@ -20,7 +20,7 @@
 !  
 
 
-! --哔哩哔哩--  `2024.2.21`
+! --哔哩哔哩--  `2024.2.22`
 m.bilibili.com##.m-nav-openapp, .m-float-openapp, .openapp-dialog, [class^="m-video2-awaken-btn"]
 ! 播放器弹窗; 播放器全屏跳转，解决无法全屏的问题
 m.bilibili.com##.home-float-openapp, .open-app
@@ -30,6 +30,7 @@ www.bilibili.com##.float-btn, .open-btn
 ! PC
 www.bilibili.com##.feed-card:has(.bili-video-card__info--ad)
 www.bilibili.com##.bili-video-card:has(.bili-video-card__info--ad)
+www.bilibili.com##.video-card-ad-small
 
 ! --知乎--  `2023.12.16`
 ! www.zhihu.com, zhuanlan.zhihu.com
