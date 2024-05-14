@@ -9,8 +9,8 @@ https://raw.githubusercontent.com/jk278/Ad-J/main/Ad-J.txt
 国内镜像 1：<br>
 https://raw.gitmirror.com/jk278/Ad-J/main/Ad-J.txt
 
-国内镜像 2：<br>
-https://raw.fastgit.org/jk278/Ad-J/main/Ad-J.txt
+~~国内镜像 2：<br>
+https://raw.fastgit.org/jk278/Ad-J/main/Ad-J.txt~~
 
 ### 其他订阅：
 
