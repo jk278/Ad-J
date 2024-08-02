@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.2.4
-! Last modified: 2024.4.4
+! Last modified: 2024.8.2
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/blob/main/Ad-J.txt
 
@@ -168,7 +168,7 @@ www.dmttang.com##.app-text
 ! --------------------------------------------------------------------------------
 ! ------------------------------------图片网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! 堆糖, pixiv, vilipix (pixiv镜像), pinterest, 
+! 堆糖, pixiv, vilipix (pixiv镜像), pinterest, happymh
 
 
 ! --堆糖--  `2024.1.1`
@@ -185,8 +185,11 @@ www.pixiv.net##.ad-frame-container, .premium-lead-new-t-info-home-top
 m.vilipix.com##.open-app-btn, .right, .download-app
 m.vilipix.com##.top-actions, .user-details-follow
 
-! --pinterest-- `2023.6.8`
+! --pinterest--  `2023.6.8`
 www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
+
+! --happymh--  `2024.8.2`
+m.happymh.com##.jss7, .jss32
 
 
 ! --------------------------------------------------------------------------------
