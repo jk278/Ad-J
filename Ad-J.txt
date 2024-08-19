@@ -333,7 +333,7 @@ mobile.yangkeduo.com##.quick-entrance-3 .pdd-lazy-image
 ! 
 
 
-weibo.cn##.wrap, .ad-wrap
+m.weibo.cn##.wrap, .ad-wrap
 m.huxiu.com##.bottom-open-app-btn
 
 microsoftedge.microsoft.com###banner
