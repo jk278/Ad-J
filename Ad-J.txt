@@ -118,7 +118,7 @@ juejin.cn##.app-open-button
 ! --------------------------------------------------------------------------------
 ! ------------------------------------查阅网站-------------------------------------
 ! --------------------------------------------------------------------------------
-! mba智库, 汉典, 古诗文网, pocket, 
+! mba智库, 汉典, 古诗文网,
 
 
 ! --mba智库--  `2022.11.17`
@@ -130,10 +130,6 @@ www.zdic.net##.topslot_container
 ! --古诗文网--  `2023-9-16`
 m.gushiwen.cn##[href="javascript:goAbpNojump()"]
 m.gushiwen.cn##div.sons:has(#aAndroid)
-
-! --pocket--  `2023.12.7`
-getpocket.com###global-nav\.upgrade-link
-getpocket.com##.align-left.css-ormwek
 
 
 ! --------------------------------------------------------------------------------
@@ -256,6 +252,8 @@ view.inews.qq.com##[class^="new-hot-comment_subText"]
 www.latimes.com##.google-dfp-ad-wrapper
 
 ! --pocket--  `2023.12.20`
+getpocket.com###global-nav\.upgrade-link
+getpocket.com##.align-left.css-ormwek
 getpocket.com###pocket-logo-nav:style(margin-left:3px !important)
 
 
