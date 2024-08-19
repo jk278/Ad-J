@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.2.4
-! Last modified: 2024.8.2
+! Last modified: 2024.8.19
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/blob/main/Ad-J.txt
 
@@ -317,9 +317,10 @@ wap.mail.qq.com##.download_container
 ! 淘宝, 拼多多, 
 
 
-! --淘宝--  `2022.11.9`
-main.m.taobao.com##button
+! --淘宝--  `2024.8.19`
 main.m.taobao.com###SLK_evokeUi_v2_wrap
+main.m.taobao.com###tcodeSideBar
+main.m.taobao.com##.topbar-ld
 
 ! --拼多多--  `2023.12.14`
 mobile.yangkeduo.com##.pdd-go-to-app
