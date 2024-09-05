@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.2.6
-! Last modified: 2024.9.3
+! Last modified: 2024.9.5
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/blob/main/Ad-J.txt
 
@@ -9,8 +9,8 @@
 ! --------------------------------------------------------------------------------
 ! ----------------------------------- 网站分类 ------------------------------------
 ! --------------------------------------------------------------------------------
-! 常用网站, 查阅搜索, 影漫小说, 图片网站, 媒体资讯, 国外网站, 工具网站, 购物网站, NSFW
-! 暂未分类
+! 常用网站, AI相关, 查阅搜索, 影漫小说, 图片网站, 媒体资讯, 工具网站, 购物网站
+! 国外网站, NSFW, 暂未分类
 
 
 ! --------------------------------------------------------------------------------
@@ -32,8 +32,9 @@ www.bilibili.com##.feed-card:has(.bili-video-card__info--ad)
 www.bilibili.com##.bili-video-card:has(.bili-video-card__info--ad)
 www.bilibili.com##.video-card-ad-small
 
-! --知乎--  `2023.12.16`
+! --知乎--  `2024.9.5`
 ! www.zhihu.com, zhuanlan.zhihu.com
+www.zhihu.com##div:has(>.css-rg1dmv)
 www.zhihu.com##.AdBelowMoreAnswers, .MHotFeedAd, .MBannerAd
 www.zhihu.com##.OpenGuide-wrapper
 www.zhihu.com##.RelatedReadings, .HotQuestions
@@ -91,9 +92,28 @@ juejin.cn##.app-open-button
 
 
 ! --------------------------------------------------------------------------------
+! ------------------------------------ AI相关 ------------------------------------
+! --------------------------------------------------------------------------------
+! 智谱, gemini, 秘塔, perplexity
+
+
+! --智谱-- `2024-9-5`
+chatglm.cn##.agent_head_DownloadApp
+
+! --gemini--  `2024.8.20`
+gemini.google.com##get-app-banner
+
+! --秘塔--  `2024-8-26`
+metaso.cn##.css-0.MuiBox-root[class^=SystemMessage_container]
+
+! --perplexity-- `2024-9-5`
+www.perplexity.ai##[role=button][href="/download-mobile"]
+
+
+! --------------------------------------------------------------------------------
 ! ----------------------------------- 查阅搜索 ------------------------------------
 ! --------------------------------------------------------------------------------
-! mba智库, 汉典, 古诗文网, 秘塔AI搜索, 
+! mba智库, 汉典, 古诗文网, 
 
 
 ! --mba智库--  `2022.11.17`
@@ -105,9 +125,6 @@ www.zdic.net##.topslot_container
 ! --古诗文网--  `2023-9-16`
 m.gushiwen.cn##[href="javascript:goAbpNojump()"]
 m.gushiwen.cn##div.sons:has(#aAndroid)
-
-! --秘塔AI搜索--  `2024-8-26`
-metaso.cn##.css-0.MuiBox-root[class^=SystemMessage_container]
 
 
 ! --------------------------------------------------------------------------------
@@ -169,7 +186,7 @@ www.pinterest.com##.TB_.C9i.un8.hs0.b8T.KS5
 ! --------------------------------------------------------------------------------
 ! ----------------------------------- 媒体资讯 ------------------------------------
 ! --------------------------------------------------------------------------------
-! 今日热榜, 36氪, IT之家, 游民星空, 虎扑, 观风闻, 雪球, 人人都是产品经理, 
+! 今日热榜, 36氪, IT之家, 游民星空, 虎扑, 观风闻, 雪球, 人人都是产品经理, 即刻
 ! 澎湃新闻, 网易新闻, 搜狐新闻, 腾讯新闻,
 ! 洛杉矶时报, pocket, 
 
@@ -208,6 +225,9 @@ xueqiu.com##.index_status__baidu__img_1KK
 ! --人人都是产品经理--  `2024-8-23`
 www.woshipm.com##.fixed-linkedme
 
+! --即刻--  `2024-9-5`
+m.okjike.com###__next>div:first-child>.wrap
+
 ! --澎湃新闻--  `2023.12.19`
 m.thepaper.cn###moblink_header
 m.thepaper.cn##[class^=index_footer_banner]
@@ -236,32 +256,6 @@ www.latimes.com##.google-dfp-ad-wrapper
 getpocket.com###global-nav\.upgrade-link
 getpocket.com##.align-left.css-ormwek
 getpocket.com###pocket-logo-nav:style(margin-left:3px !important)
-
-
-! --------------------------------------------------------------------------------
-! ----------------------------------- 国外网站 ------------------------------------
-! --------------------------------------------------------------------------------
-! youtube, gmail, 必应, reddit, gemini,
-
-
-! --youtube--  `2024.2.20`
-! PC
-www.youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
-www.youtube.com##ytd-ad-slot-renderer
-
-! --gmail--  `2023.5.7`
-mail.google.com###nav
-
-! --必应--  `2024.1.1`
-bing.com##.b_ad, .opal_serpftrc, #b_lowerheader, .visible.bottom, #bnp_rich_div, #bnp_set_dse
-bing.com###ftrLnks>li:nth-last-of-type(n+5)
-bing.com##.b_canvas.b_msg, region, #b_pag_chat_btn_container
-
-! --reddit--  `2023.3.18`
-reddit.com##.XPromoPill, .TopNav__promoButton
-
-! --gemini--  `2024.8.20`
-gemini.google.com##get-app-banner
 
 
 ! --------------------------------------------------------------------------------
@@ -312,11 +306,35 @@ mobile.yangkeduo.com##.quick-entrance-3 .pdd-lazy-image
 
 
 ! --------------------------------------------------------------------------------
+! ----------------------------------- 国外网站 ------------------------------------
+! --------------------------------------------------------------------------------
+! youtube, gmail, 必应, reddit,
+
+
+! --youtube--  `2024.2.20`
+! PC
+www.youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
+www.youtube.com##ytd-ad-slot-renderer
+
+! --gmail--  `2023.5.7`
+mail.google.com###nav
+
+! --必应--  `2024.1.1`
+bing.com##.b_ad, .opal_serpftrc, #b_lowerheader, .visible.bottom, #bnp_rich_div, #bnp_set_dse
+bing.com###ftrLnks>li:nth-last-of-type(n+5)
+bing.com##.b_canvas.b_msg, region, #b_pag_chat_btn_container
+
+! --reddit--  `2023.3.18`
+reddit.com##.XPromoPill, .TopNav__promoButton
+
+
+! --------------------------------------------------------------------------------
 ! ------------------------------------- NSFW -------------------------------------
 ! --------------------------------------------------------------------------------
 ! 警告：查看本分组前，请确认您已成年，我们不保证其内容的正确性，也不支持未成年人浏览类似网站
 ! MISSAV, 九色视频, hello av girls, xnxx, xvideos, pornhub, eporner, avgle, javhub
 ! krx18, hanime1
+
 
 ! --MISSAV--  `2024.9.3`
 missav.*,missav123.com,missav789.com,myav.com##div[x-show="showBanner"]
