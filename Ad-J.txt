@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.2.6
-! Last modified: 2024.9.5
+! Last modified: 2024.9.13
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/blob/main/Ad-J.txt
 
@@ -308,7 +308,7 @@ mobile.yangkeduo.com##.quick-entrance-3 .pdd-lazy-image
 ! --------------------------------------------------------------------------------
 ! ----------------------------------- 国外网站 ------------------------------------
 ! --------------------------------------------------------------------------------
-! youtube, gmail, 必应, reddit,
+! youtube, gmail, 必应, reddit, mirrorreview
 
 
 ! --youtube--  `2024.2.20`
@@ -326,6 +326,9 @@ bing.com##.b_canvas.b_msg, region, #b_pag_chat_btn_container
 
 ! --reddit--  `2023.3.18`
 reddit.com##.XPromoPill, .TopNav__promoButton
+
+! --mirrorreview-- `2024-9-13`
+www.mirrorreview.com##[class^=astra-advanced-hook]:has(.elementor-countdown-wrapper)
 
 
 ! --------------------------------------------------------------------------------
