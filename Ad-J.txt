@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.2.6
-! Last modified: 2024.9.13
+! Last modified: 2024.9.18
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/blob/main/Ad-J.txt
 
@@ -54,8 +54,11 @@ www.jianshu.com##.social-wrap > .reply-btn
 ! 要查看当前文章点赞数，不用这条↓↓
 www.jianshu.com##.note-graceful-button 
 
-! --百度--  `2022.2.20`
-m.baidu.com##.ec_wise_ad, .c-video-container, .c-blocka ec_title
+! --百度--  `2024.9.18`
+3g.baidu.com,m.baidu.com,m2.baidu.com,m3.baidu.com,m5.baidu.com##.ec_wise_ad, .c-blocka ec_title
+3g.baidu.com,m.baidu.com,m2.baidu.com,m3.baidu.com,m5.baidu.com###copyright+[style^="position: fixed"]
+! 视频内容
+3g.baidu.com,m.baidu.com,m2.baidu.com,m3.baidu.com,m5.baidu.com##.c-video-container, [srcid=vid_recommend]
 
 ! --百度知道--  `2022.11.4`
 zhidao.baidu.com###knowledge-answer-list, #feed-recommend, .feed-recommend-title
