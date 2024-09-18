@@ -57,8 +57,8 @@ www.jianshu.com##.note-graceful-button
 ! --百度--  `2024.9.18`
 3g.baidu.com,m.baidu.com,m2.baidu.com,m3.baidu.com,m5.baidu.com##.ec_wise_ad, .c-blocka ec_title
 3g.baidu.com,m.baidu.com,m2.baidu.com,m3.baidu.com,m5.baidu.com###copyright+[style^="position: fixed"]
-! 视频内容
-3g.baidu.com,m.baidu.com,m2.baidu.com,m3.baidu.com,m5.baidu.com##.c-video-container, [srcid=vid_recommend]
+! “全部”页会自动播放的推荐视频块
+3g.baidu.com,m.baidu.com,m2.baidu.com,m3.baidu.com,m5.baidu.com##[srcid=vid_recommend]
 
 ! --百度知道--  `2022.11.4`
 zhidao.baidu.com###knowledge-answer-list, #feed-recommend, .feed-recommend-title
