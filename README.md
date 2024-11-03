@@ -10,5 +10,5 @@
 - **少即是多**<br>
 对于部分热门网站，此规则只作为主要规则的补充。
 
-- subconverter-rules.ini<br>
+- [subconverter-rules.ini](https://raw.githubusercontent.com/jk278/Ad-J/refs/heads/main/subconverter-rules.ini)<br>
 适用于订阅转换网站的带家庭直连分组的分地域远程配置，复制后粘贴到自定义配置中。
