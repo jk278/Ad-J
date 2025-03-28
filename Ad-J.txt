@@ -365,8 +365,8 @@ www.helloavgirls.com##.box-shadow
 www.xnxx.com##.ad-support-mobile, .premium-results-line, .remove-ads
 www.xnxx.com##.gold-plate, #x-home-messages, .thumb-ad
 
-! --xvideos--  `2022.11.17`
-www.xvideos.com##.ad-support-mobile, .remove-ads, .thumb-ad, .video-ad, .live-cams
+! --xvideos--  `2025.3.28`
+www.xvideos.com##.remove-ads, .thumb-ad, .video-ad, .live-cams
 www.xvideos.com##.red-ticket, #mobile-slogan, .search-premium-tabs
 
 ! --pornhub--  `2022.11.9`
