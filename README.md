@@ -11,6 +11,6 @@
 对于部分热门网站，此规则只作为主要规则的补充。
 
 - [subconverter-rules-zhilian.ini](https://raw.githubusercontent.com/jk278/Ad-J/refs/heads/main/subconverter-rules-zhilian.ini)<br>
-适用于订阅转换网站的带家庭直连分组的分地域远程配置。
+适用于订阅转换网站的带**家庭直连**分组的分地域远程配置。
 - [subconverter-rules-zhuanxian.ini](https://raw.githubusercontent.com/jk278/Ad-J/refs/heads/main/subconverter-rules-zhuanxian.ini)<br>
-适用于订阅转换网站的带专线和隧道分组的分地域远程配置。
+适用于订阅转换网站的带**专线和隧道**分组的分地域远程配置。
