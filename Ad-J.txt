@@ -318,6 +318,7 @@ mobile.yangkeduo.com##.quick-entrance-3 .pdd-lazy-image
 ! 移除Youtube Shorts
 m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-bar-item-tab.pivot-shorts)
 m.youtube.com##ytm-reel-shelf-renderer
+m.youtube.com##ytm-rich-section-renderer:has(grid-shelf-view-model)
 ! PC
 www.youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
 www.youtube.com##ytd-ad-slot-renderer
