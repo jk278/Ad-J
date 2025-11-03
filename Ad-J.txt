@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Ad Filter J
 ! Version: 1.2.7
-! Last modified: 2025.6.15
+! Last modified: 2025.11.3
 ! 自用去广告规则。常用网站精选。
 ! 地址：https://github.com/jk278/Ad-J/blob/main/Ad-J.txt
 
@@ -314,7 +314,7 @@ mobile.yangkeduo.com##.quick-entrance-3 .pdd-lazy-image
 ! youtube, gmail, 必应, reddit, mirrorreview
 
 
-! --youtube--  `2025.6.15`
+! --youtube--  `2025.11.3`
 ! 移除Youtube Shorts
 m.youtube.com##ytm-pivot-bar-item-renderer:has(>.pivot-bar-item-tab.pivot-shorts)
 m.youtube.com##ytm-reel-shelf-renderer
@@ -322,6 +322,8 @@ m.youtube.com##ytm-rich-section-renderer:has(grid-shelf-view-model)
 ! PC
 www.youtube.com##ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
 www.youtube.com##ytd-ad-slot-renderer
+! Youtube Shorts (PC)
+www.youtube.com##div#dismissible.style-scope.ytd-rich-shelf-renderer
 
 ! --gmail--  `2023.5.7`
 mail.google.com###nav
